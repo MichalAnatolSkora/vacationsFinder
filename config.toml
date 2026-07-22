@@ -1,0 +1,64 @@
+# Konfiguracja wyszukiwania wakacji.
+# Skrypty czytają ten plik na starcie — zmień wartości, żeby zmienić parametry szukania.
+# Pełny opis kluczy, dozwolonych wartości i który skrypt co czyta: CONFIG.md
+
+[wylot]
+lotnisko = "WRO"          # Wrocław; kod IATA lotniska wylotu
+
+[daty]
+od = 2026-08-17           # najwcześniejszy wylot
+do = 2026-08-30           # najpóźniejszy powrót
+min_nocy = 7
+max_nocy = 9
+
+[osoby]
+dorosli = 3
+dzieci = [4, 7, 7, 8]     # wiek każdego dziecka
+
+[kierunki]
+kraje = ["Włochy", "Hiszpania", "Malta", "Grecja", "Chorwacja"]
+
+# Budżet całkowity: lot + nocleg + jedzenie. Gdy ta sekcja istnieje, budżet na
+# nocleg jest liczony per kierunek: calkowity - lot rodziny - jedzenie(dni).
+# Usuń/zakomentuj sekcję, żeby wrócić do stałego [nocleg].budzet_max_pln.
+[budzet]
+calkowity_pln = 20000
+jedzenie_dzien_pln = 250   # szacunek na rodzinę 7 os./dzień przy własnym wyżywieniu
+
+[nocleg]
+budzet_max_pln = 16000    # budżet na sam nocleg — używany tylko gdy brak sekcji [budzet]
+ocena_min = 8.0
+# Run "dla wszystkich": bez filtra typu obiektu i wyżywienia — hotele, wille
+# i apartamenty konkurują na równi; o kolejności decyduje punktacja udogodnień.
+udogodnienia = ["klimatyzacja"]
+max_km_od_plazy = 20       # planowany wynajem auta, więc plaża może być dalej
+
+[loty]
+budzet_max_pln = 0         # 0 = bez limitu, po prostu szukamy najtańszych
+
+# Punkty za udogodnienia "premium" — za nie jesteśmy gotowi zapłacić więcej.
+# Dopasowanie po początku słowa, bez rozróżniania wielkości liter
+# (np. "basen" łapie "Odkryty basen", "2 baseny"; nie łapie "Wanna lub prysznic").
+# rank_lodging.py sortuje obiekty: punkty malejąco, w ramach punktów cena rosnąco.
+# Tylko animacje/rozrywka dla dzieci i pokrewne
+# (etykiety wg rank_lodging.py --list-udogodnienia).
+# Uwaga (zweryfikowane na stronach obiektów): "Wieczorne rozrywki" u booking
+# często oznacza DJ-a/karaoke/kasyno w okolicy, nie animacje dla dzieci —
+# stąd niska waga. Prawdziwy sygnał animacji to "Klub dla dzieci"/"Animacje".
+# Run "dla wszystkich" — mix atrakcji dla dzieci i dorosłych.
+[scoring.udogodnienia]
+basen = 5
+"prywatny basen" = 5          # basen tylko dla nas > basen współdzielony
+jacuzzi = 4
+"hydromasaż" = 4
+sauna = 2
+"prywatna plaża" = 3
+animacj = 6                   # "Animacje dla dzieci" itp. (gdy pojawią się w danych)
+"klub dla dzieci" = 6
+"plac zabaw" = 4
+"sala zabaw" = 4
+"dla dzieci" = 2              # łapie m.in.: basen/książki/bramki dla dzieci
+opieka = 2                    # "Opieka nad dziećmi"
+"wieczorne rozrywki" = 1
+"wieczory tematyczne" = 1
+"gry planszowe" = 1

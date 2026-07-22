@@ -1,0 +1,1773 @@
+{
+  "file_role": "FINALNY — obiekty z lodging.finalny.json posortowane wg punktów za udogodnienia z config.toml ([scoring.udogodnienia]).",
+  "generated_at": "2026-07-21T19:01:55",
+  "lodging_generated_at": "2026-07-21T18:57:41",
+  "note": "Ranking obiektów z lodging.finalny.json wg punktów za udogodnienia. Sortowanie: punkty malejąco, potem cena za pobyt rosnąco. matched = które słowo kluczowe złapało które udogodnienia.",
+  "scoring": {
+    "prywatny basen": 5,
+    "animacj": 6,
+    "klub dla dzieci": 6,
+    "plac zabaw": 4,
+    "sala zabaw": 4,
+    "dla dzieci": 2,
+    "opieka": 2,
+    "wieczorne rozrywki": 1,
+    "wieczory tematyczne": 1,
+    "gry planszowe": 1
+  },
+  "ranking": [
+    {
+      "score": 15,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Palma (Hiszpania)",
+      "search_area": "Palma",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Ca Na Margalida",
+      "review_score": 9.6,
+      "reviews": 7,
+      "lodging_total_pln": 14235,
+      "flight_family_total_pln": 3866.66,
+      "flight": {
+        "airport": "PMI",
+        "city": "Palma",
+        "airport_name": "Palma",
+        "outbound": "2026-08-18T17:55:00",
+        "inbound": "2026-08-25T21:20:00",
+        "nights": 7,
+        "price_per_person": 552.38,
+        "currency": "PLN",
+        "family_total": 3866.66
+      },
+      "trip_total_pln": 18101.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/ca-na-margalida-muro1.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Bramki zabezpieczające dla dzieci"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Log House The River Pearl",
+      "review_score": null,
+      "reviews": 22,
+      "lodging_total_pln": 10720,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 13111.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/log-house-the-river-pearl.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Bramki zabezpieczające dla dzieci"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Las Maytes",
+      "review_score": null,
+      "reviews": null,
+      "lodging_total_pln": 15003,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 18910.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-las-maytes.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Bramki zabezpieczające dla dzieci"
+        ],
+        "opieka": [
+          "Opieka nad dziećmi (dodatkowa opłata)"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Brindisi (Włochy)",
+      "search_area": "Ostuni",
+      "checkin": "2026-08-17",
+      "checkout": "2026-08-24",
+      "nights": 7,
+      "name": "Il Trullo di Heidi",
+      "review_score": null,
+      "reviews": 9,
+      "lodging_total_pln": 14637,
+      "flight_family_total_pln": 2203.18,
+      "flight": {
+        "airport": "BDS",
+        "city": "Brindisi",
+        "airport_name": "Brindisi",
+        "outbound": "2026-08-17T05:50:00",
+        "inbound": "2026-08-24T08:20:00",
+        "nights": 7,
+        "price_per_person": 314.74,
+        "currency": "PLN",
+        "family_total": 2203.18
+      },
+      "trip_total_pln": 16840.18,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/il-trullo-di-heidi.pl.html?checkin=2026-08-17&checkout=2026-08-24&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 10,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci"
+        ],
+        "opieka": [
+          "Opieka nad dziećmi (dodatkowa opłata)"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "La Ventana rural house - private pool",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 11400,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 15307.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/la-ventana-rural-house-private-pool.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 10,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "EMI Lokve",
+      "review_score": null,
+      "reviews": 4,
+      "lodging_total_pln": 11901,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 14292.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/holiday-house-emi.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 10,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Bramki zabezpieczające dla dzieci",
+          "Książki, DVD lub muzyka dla dzieci"
+        ],
+        "opieka": [
+          "Opieka nad dziećmi (dodatkowa opłata)"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Volcera",
+      "review_score": 9.0,
+      "reviews": 7,
+      "lodging_total_pln": 13509,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 15900.41,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-volcera.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Bramki zabezpieczające dla dzieci"
+        ],
+        "opieka": [
+          "Opieka nad dziećmi (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Buganvillas, relax con piscina privada a pocos minutos de la Barrosa y Santi Petri",
+      "review_score": 9.0,
+      "reviews": 18,
+      "lodging_total_pln": 11249,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 15156.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-buganvillas.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Lido di Jesolo",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "MB Guest House",
+      "review_score": null,
+      "reviews": 3,
+      "lodging_total_pln": 6298,
+      "flight_family_total_pln": 2574.6,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-19T07:25:00",
+        "inbound": "2026-08-26T09:25:00",
+        "nights": 7,
+        "price_per_person": 367.8,
+        "currency": "PLN",
+        "family_total": 2574.6
+      },
+      "trip_total_pln": 8872.6,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/mb-guest-house.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Cortijo Betis Andalusian Villa Private Pool",
+      "review_score": 8.2,
+      "reviews": 21,
+      "lodging_total_pln": 12085,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 15992.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/casa-en-betis-con-piscina.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-27",
+      "nights": 9,
+      "name": "Theo Pool Villa Magnificent Sea View",
+      "review_score": null,
+      "reviews": 4,
+      "lodging_total_pln": 14282,
+      "flight_family_total_pln": 3567.55,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-18T19:25:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 9,
+        "price_per_person": 509.65,
+        "currency": "PLN",
+        "family_total": 3567.55
+      },
+      "trip_total_pln": 17849.55,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/theo-pool-villa.pl.html?checkin=2026-08-18&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "dla dzieci": [
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Veguetas",
+      "review_score": 8.0,
+      "reviews": 15,
+      "lodging_total_pln": 14966,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 18873.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-veguetas-chiclana-de-la-frontera.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Camping Belsito",
+      "review_score": 8.5,
+      "reviews": 2,
+      "lodging_total_pln": 8984,
+      "flight_family_total_pln": 2570.68,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-19T20:35:00",
+        "inbound": "2026-08-26T22:55:00",
+        "nights": 7,
+        "price_per_person": 367.24,
+        "currency": "PLN",
+        "family_total": 2570.68
+      },
+      "trip_total_pln": 11554.68,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/camping-belsito-vico.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci",
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Incanto Toscano",
+      "review_score": 9.0,
+      "reviews": 132,
+      "lodging_total_pln": 11703,
+      "flight_family_total_pln": 2570.68,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-19T20:35:00",
+        "inbound": "2026-08-26T22:55:00",
+        "nights": 7,
+        "price_per_person": 367.24,
+        "currency": "PLN",
+        "family_total": 2570.68
+      },
+      "trip_total_pln": 14273.68,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/incanto-toscano.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "LA PEÑA LUXURY(TARIFA)",
+      "review_score": 8.4,
+      "reviews": 202,
+      "lodging_total_pln": 12139,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 16046.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/la-pena-luxury-tarifa.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Millefoglie, a century-old stone house nestled in a nature park",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 13365,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 15756.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/villa-millefoglie-a-century-old-stone-house-nestled-in-a-nature-park.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Zgodić",
+      "review_score": 9.3,
+      "reviews": 3,
+      "lodging_total_pln": 14554,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 16945.41,
+      "beach": "1,1 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-zgodic.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Tarifa Beach apartment with ocean views and pool",
+      "review_score": 8.2,
+      "reviews": 31,
+      "lodging_total_pln": 6382,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 10289.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/sea-apartment-views-tarifa-wifi.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Casa Ana high speed Starlink wifi",
+      "review_score": 9.2,
+      "reviews": 11,
+      "lodging_total_pln": 9166,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 11557.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/casa-ana-buzet.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Rana Verde",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 9420,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 13327.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/rana-verde-chiclana-de-la-frontera2.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Beautiful Traditional House",
+      "review_score": 8.2,
+      "reviews": 5,
+      "lodging_total_pln": 9726,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 13633.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/beautiful-traditional-house.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villas La Ahumada. Villa Nepal",
+      "review_score": 8.8,
+      "reviews": 12,
+      "lodging_total_pln": 9826,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 13733.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/mini-villa-de-lujo-nepal.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Rua C BARROSAHOME",
+      "review_score": 9.0,
+      "reviews": 1,
+      "lodging_total_pln": 10006,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 13913.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-rua-c-barrosahome.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Holiday home Brgud with private pool Opatija area",
+      "review_score": 9.0,
+      "reviews": 10,
+      "lodging_total_pln": 10136,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 12527.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/kuca-za-odmor-na-osami-bazen.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "VILLA SANTA CLARA sólo familias",
+      "review_score": 9.2,
+      "reviews": 11,
+      "lodging_total_pln": 10309,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 14216.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-santa-clara-chiclana-de-la-frontera.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Dunatić",
+      "review_score": null,
+      "reviews": null,
+      "lodging_total_pln": 10762,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 13153.41,
+      "beach": "1,7 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-dunatic.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Holiday Home Traum",
+      "review_score": null,
+      "reviews": 22,
+      "lodging_total_pln": 11551,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 13942.41,
+      "beach": "350 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/holiday-home-traum.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Holiday Home Relax & Play by Interhome",
+      "review_score": 9.7,
+      "reviews": 22,
+      "lodging_total_pln": 11723,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 14114.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/holiday-home-gorski-hedon-by-interhome.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Old Stone",
+      "review_score": null,
+      "reviews": 4,
+      "lodging_total_pln": 12149,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 14540.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/villa-old-stone-gabonjin1.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Lumiere",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 12361,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 14752.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/villa-lumiere-garica.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Luna",
+      "review_score": null,
+      "reviews": null,
+      "lodging_total_pln": 12540,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 14931.41,
+      "beach": "2,2 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-luna-opcina-dobrinj.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Sofía",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 12584,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 16491.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villa-sofia-chiclana-de-la-frontera.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Casa S.Paolo",
+      "review_score": null,
+      "reviews": 3,
+      "lodging_total_pln": 12669,
+      "flight_family_total_pln": 1514.24,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.32,
+        "currency": "PLN",
+        "family_total": 1514.24
+      },
+      "trip_total_pln": 14183.24,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/casa-spaolo.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa 1900",
+      "review_score": 9.5,
+      "reviews": 2,
+      "lodging_total_pln": 12887,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 15278.41,
+      "beach": "1,1 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-1900.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villas tesoro del pirata \"El Zafiro\"",
+      "review_score": 9.0,
+      "reviews": 2,
+      "lodging_total_pln": 13151,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 17058.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/villas-tesoro-del-pirata-el-zafiro.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Manuela",
+      "review_score": 9.2,
+      "reviews": 7,
+      "lodging_total_pln": 13269,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 15660.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/villa-manuela-kras.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Chalet Independiete Con Piscina",
+      "review_score": 9.3,
+      "reviews": 6,
+      "lodging_total_pln": 13553,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 17460.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/chalet-independiete-con-piscina.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Zadar (Chorwacja)",
+      "search_area": "Zadar",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Authentic Stone house, Zadar city",
+      "review_score": 9.0,
+      "reviews": 8,
+      "lodging_total_pln": 13614,
+      "flight_family_total_pln": 2228.66,
+      "flight": {
+        "airport": "ZAD",
+        "city": "Zadar",
+        "airport_name": "Zadar",
+        "outbound": "2026-08-18T21:35:00",
+        "inbound": "2026-08-25T23:35:00",
+        "nights": 7,
+        "price_per_person": 318.38,
+        "currency": "PLN",
+        "family_total": 2228.66
+      },
+      "trip_total_pln": 15842.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/authentic-stone-house-zadar-city.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Chalet Manku",
+      "review_score": 8.1,
+      "reviews": 29,
+      "lodging_total_pln": 13828,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 17735.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/chalet-marisma-chiclana-de-la-frontera.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "- Luxury Villa - Pool - Garden -Forte dei Marmi Versilia-",
+      "review_score": null,
+      "reviews": null,
+      "lodging_total_pln": 14327,
+      "flight_family_total_pln": 2570.68,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-19T20:35:00",
+        "inbound": "2026-08-26T22:55:00",
+        "nights": 7,
+        "price_per_person": 367.24,
+        "currency": "PLN",
+        "family_total": 2570.68
+      },
+      "trip_total_pln": 16897.68,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/luxury-villa-pool-garden-versilia.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Malinka Private Pool 150m to Beach Garden & BBQ",
+      "review_score": 9.7,
+      "reviews": 3,
+      "lodging_total_pln": 14644,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 17035.41,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-malinka-private-pool-and-garden-2-min-to-beach.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Chalet Piscina Privada Parking Cerca del pueblo Viewl",
+      "review_score": 8.0,
+      "reviews": 1,
+      "lodging_total_pln": 15457,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 19364.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/chalet-piscina-privada-parking-cerca-del-pueblo-viewl.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Dubrovnik (Chorwacja)",
+      "search_area": "Dubrovnik",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Villa Margarita Sipan by Villas Guide",
+      "review_score": 8.0,
+      "reviews": 2,
+      "lodging_total_pln": 15484,
+      "flight_family_total_pln": 2567.81,
+      "flight": {
+        "airport": "DBV",
+        "city": "Dubrovnik",
+        "airport_name": "Dubrownik",
+        "outbound": "2026-08-22T22:15:00",
+        "inbound": "2026-08-29T20:00:00",
+        "nights": 7,
+        "price_per_person": 366.83,
+        "currency": "PLN",
+        "family_total": 2567.81
+      },
+      "trip_total_pln": 18051.81,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/villa-margarita-sipan-by-villas-guide.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "prywatny basen": [
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Villa Kristina - Swimming pool, Dolenja Vas - Istra",
+      "review_score": 9.8,
+      "reviews": 8,
+      "lodging_total_pln": 15807,
+      "flight_family_total_pln": 2391.41,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 341.63,
+        "currency": "PLN",
+        "family_total": 2391.41
+      },
+      "trip_total_pln": 18198.41,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/hr/villa-kristina-swimming-pool-dolenja-vas-istra.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Il Frutteto",
+      "review_score": 8.1,
+      "reviews": 56,
+      "lodging_total_pln": 11210,
+      "flight_family_total_pln": 2570.68,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-19T20:35:00",
+        "inbound": "2026-08-26T22:55:00",
+        "nights": 7,
+        "price_per_person": 367.24,
+        "currency": "PLN",
+        "family_total": 2570.68
+      },
+      "trip_total_pln": 13780.68,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/il-frutteto-lari.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "dla dzieci": [
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Lido di Jesolo",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Villaggio Dei Fiori",
+      "review_score": 8.1,
+      "reviews": 171,
+      "lodging_total_pln": 9175,
+      "flight_family_total_pln": 2574.6,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-19T07:25:00",
+        "inbound": "2026-08-26T09:25:00",
+        "nights": 7,
+        "price_per_person": 367.8,
+        "currency": "PLN",
+        "family_total": 2574.6
+      },
+      "trip_total_pln": 11749.6,
+      "beach": "1,6 km od plaży",
+      "url": "https://www.booking.com/hotel/it/villaggio-dei-fiori-bibione.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Casetta Lungomare",
+      "review_score": 8.6,
+      "reviews": 99,
+      "lodging_total_pln": 9518,
+      "flight_family_total_pln": 3241.07,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 463.01,
+        "currency": "PLN",
+        "family_total": 3241.07
+      },
+      "trip_total_pln": 12759.07,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/casetta-lungomare-pescara1.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hacienda El Legado",
+      "review_score": 9.2,
+      "reviews": 4,
+      "lodging_total_pln": 10915,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 14822.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/hacienda-el-legado.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Il Borgo dei Medici",
+      "review_score": 8.6,
+      "reviews": 22,
+      "lodging_total_pln": 12371,
+      "flight_family_total_pln": 2570.68,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-19T20:35:00",
+        "inbound": "2026-08-26T22:55:00",
+        "nights": 7,
+        "price_per_person": 367.24,
+        "currency": "PLN",
+        "family_total": 2570.68
+      },
+      "trip_total_pln": 14941.68,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/il-borgo-dei-medici.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Palermo (Włochy)",
+      "search_area": "Cefalù",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Villa degli Artisti",
+      "review_score": 9.6,
+      "reviews": 8,
+      "lodging_total_pln": 12388,
+      "flight_family_total_pln": 3664.92,
+      "flight": {
+        "airport": "PMO",
+        "city": "Palermo",
+        "airport_name": "Palermo",
+        "outbound": "2026-08-18T06:05:00",
+        "inbound": "2026-08-25T08:55:00",
+        "nights": 7,
+        "price_per_person": 523.56,
+        "currency": "PLN",
+        "family_total": 3664.92
+      },
+      "trip_total_pln": 16052.92,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/villa-degli-artisti-cefalu4.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Costa Ballena Unifamiliar",
+      "review_score": 9.8,
+      "reviews": 21,
+      "lodging_total_pln": 12558,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 16465.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/costa-ballena-excelente-unifamiliar.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hacienda Club Benalup",
+      "review_score": 9.8,
+      "reviews": 6,
+      "lodging_total_pln": 15042,
+      "flight_family_total_pln": 3907.89,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 558.27,
+        "currency": "PLN",
+        "family_total": 3907.89
+      },
+      "trip_total_pln": 18949.89,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/hacienda-club-benalup.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    }
+  ]
+}

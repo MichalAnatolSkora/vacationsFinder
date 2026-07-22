@@ -1,0 +1,3 @@
+# Tylko dla find_lodging.py (find_flights.py używa samej biblioteki standardowej).
+# Instalacja: .venv/bin/pip install -r requirements.txt && .venv/bin/playwright install chromium
+playwright

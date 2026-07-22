@@ -1,0 +1,548 @@
+{
+  "file_role": "FINALNY — obiekty z lodging.finalny.json posortowane wg punktów za udogodnienia z config.toml ([scoring.udogodnienia]).",
+  "generated_at": "2026-07-21T18:40:28",
+  "lodging_generated_at": "2026-07-21T18:23:32",
+  "note": "Ranking obiektów z lodging.finalny.json wg punktów za udogodnienia. Sortowanie: punkty malejąco, potem cena za pobyt rosnąco. matched = które słowo kluczowe złapało które udogodnienia.",
+  "scoring": {
+    "animacj": 6,
+    "klub dla dzieci": 6,
+    "plac zabaw": 4,
+    "sala zabaw": 4,
+    "dla dzieci": 2,
+    "opieka": 2,
+    "wieczorne rozrywki": 1,
+    "wieczory tematyczne": 1,
+    "gry planszowe": 1
+  },
+  "ranking": [
+    {
+      "score": 18,
+      "matched": {
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci"
+        ],
+        "wieczorne rozrywki": [
+          "Wieczorne rozrywki"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Palma (Hiszpania)",
+      "search_area": "Palma",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Alua Calvia",
+      "review_score": 8.2,
+      "reviews": 575,
+      "lodging_total_pln": 15474,
+      "flight_family_total_pln": 3866.66,
+      "flight": {
+        "airport": "PMI",
+        "city": "Palma",
+        "airport_name": "Palma",
+        "outbound": "2026-08-18T17:55:00",
+        "inbound": "2026-08-25T21:20:00",
+        "nights": 7,
+        "price_per_person": 552.38,
+        "currency": "PLN",
+        "family_total": 3866.66
+      },
+      "trip_total_pln": 19340.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/dreams-calvia-resort-spain.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 17,
+      "matched": {
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Bramki zabezpieczające dla dzieci"
+        ],
+        "opieka": [
+          "Opieka nad dziećmi (dodatkowa opłata)"
+        ],
+        "wieczorne rozrywki": [
+          "Wieczorne rozrywki"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Palma (Hiszpania)",
+      "search_area": "Palma",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Valentin Grand Park",
+      "review_score": 8.6,
+      "reviews": 1377,
+      "lodging_total_pln": 14777,
+      "flight_family_total_pln": 3866.66,
+      "flight": {
+        "airport": "PMI",
+        "city": "Palma",
+        "airport_name": "Palma",
+        "outbound": "2026-08-18T17:55:00",
+        "inbound": "2026-08-25T21:20:00",
+        "nights": 7,
+        "price_per_person": 552.38,
+        "currency": "PLN",
+        "family_total": 3866.66
+      },
+      "trip_total_pln": 18643.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/valentin-park-clubhotel.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 14,
+      "matched": {
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci"
+        ],
+        "wieczorne rozrywki": [
+          "Wieczorne rozrywki"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ]
+      },
+      "destination": "Zadar (Chorwacja)",
+      "search_area": "Zadar",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Zelena Punta Resort",
+      "review_score": 8.2,
+      "reviews": 268,
+      "lodging_total_pln": 11297,
+      "flight_family_total_pln": 2278.92,
+      "flight": {
+        "airport": "ZAD",
+        "city": "Zadar",
+        "airport_name": "Zadar",
+        "outbound": "2026-08-18T21:35:00",
+        "inbound": "2026-08-25T23:35:00",
+        "nights": 7,
+        "price_per_person": 325.56,
+        "currency": "PLN",
+        "family_total": 2278.92
+      },
+      "trip_total_pln": 13575.92,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/zelena-punta.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 13,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci"
+        ],
+        "wieczorne rozrywki": [
+          "Wieczorne rozrywki"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Glenn",
+      "review_score": 8.8,
+      "reviews": 130,
+      "lodging_total_pln": 13760,
+      "flight_family_total_pln": 1607.55,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 229.65,
+        "currency": "PLN",
+        "family_total": 1607.55
+      },
+      "trip_total_pln": 15367.55,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/glenn.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Gattuccio",
+      "review_score": 8.7,
+      "reviews": 66,
+      "lodging_total_pln": 15853,
+      "flight_family_total_pln": 1607.55,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 229.65,
+        "currency": "PLN",
+        "family_total": 1607.55
+      },
+      "trip_total_pln": 17460.55,
+      "beach": "400 m od plaży",
+      "url": "https://www.booking.com/hotel/it/gattuccio.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Graziana",
+      "review_score": 8.7,
+      "reviews": 69,
+      "lodging_total_pln": 15365,
+      "flight_family_total_pln": 1607.55,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 229.65,
+        "currency": "PLN",
+        "family_total": 1607.55
+      },
+      "trip_total_pln": 16972.55,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/graziana.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "wieczorne rozrywki": [
+          "Wieczorne rozrywki"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Miramare Dipendenza",
+      "review_score": 8.9,
+      "reviews": 24,
+      "lodging_total_pln": 14701,
+      "flight_family_total_pln": 3397.73,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 485.39,
+        "currency": "PLN",
+        "family_total": 3397.73
+      },
+      "trip_total_pln": 18098.73,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/miramare-dipendenza.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 4,
+      "matched": {
+        "sala zabaw": [
+          "Sala zabaw"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Paviljoni Omorika",
+      "review_score": 8.0,
+      "reviews": 836,
+      "lodging_total_pln": 15795,
+      "flight_family_total_pln": 2447.83,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 349.69,
+        "currency": "PLN",
+        "family_total": 2447.83
+      },
+      "trip_total_pln": 18242.83,
+      "beach": "300 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/depandance-omorika.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Ariston Hotel",
+      "review_score": 8.1,
+      "reviews": 1545,
+      "lodging_total_pln": 13644,
+      "flight_family_total_pln": 3652.53,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-18T19:25:00",
+        "inbound": "2026-08-25T23:25:00",
+        "nights": 7,
+        "price_per_person": 521.79,
+        "currency": "PLN",
+        "family_total": 3652.53
+      },
+      "trip_total_pln": 17296.53,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/ariston.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Lido di Jesolo",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Crowne Plaza Venice East by IHG",
+      "review_score": 8.4,
+      "reviews": 1560,
+      "lodging_total_pln": 13835,
+      "flight_family_total_pln": 2396.45,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-19T07:25:00",
+        "inbound": "2026-08-26T09:25:00",
+        "nights": 7,
+        "price_per_person": 342.35,
+        "currency": "PLN",
+        "family_total": 2396.45
+      },
+      "trip_total_pln": 16231.45,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/holidayinnveniceeast.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Ohtels Campo De Gibraltar",
+      "review_score": 8.2,
+      "reviews": 7117,
+      "lodging_total_pln": 15701,
+      "flight_family_total_pln": 3856.86,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 550.98,
+        "currency": "PLN",
+        "family_total": 3856.86
+      },
+      "trip_total_pln": 19557.86,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/ohtels-campo-de-gibraltar.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 1,
+      "matched": {
+        "gry planszowe": [
+          "Gry planszowe / puzzle"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Villa Madana",
+      "review_score": 8.0,
+      "reviews": 489,
+      "lodging_total_pln": 13995,
+      "flight_family_total_pln": 1607.55,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 229.65,
+        "currency": "PLN",
+        "family_total": 1607.55
+      },
+      "trip_total_pln": 15602.55,
+      "beach": "250 m od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-madana.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Sacramora",
+      "review_score": 8.1,
+      "reviews": 412,
+      "lodging_total_pln": 12429,
+      "flight_family_total_pln": 1607.55,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 229.65,
+        "currency": "PLN",
+        "family_total": 1607.55
+      },
+      "trip_total_pln": 14036.55,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/sacramora.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Mir Octavio",
+      "review_score": 8.2,
+      "reviews": 5339,
+      "lodging_total_pln": 14905,
+      "flight_family_total_pln": 3856.86,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 550.98,
+        "currency": "PLN",
+        "family_total": 3856.86
+      },
+      "trip_total_pln": 18761.86,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/vime-octavio.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    }
+  ]
+}
