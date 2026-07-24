@@ -1,0 +1,979 @@
+{
+  "file_role": "POŚREDNI — półprodukt dla find_lodging.py; finalne wyniki znajdziesz w lodging.finalny.json (pełne dane) i ranking.finalny.json (ranking).",
+  "generated_at": "2026-07-22T21:57:57",
+  "config": {
+    "airport": "WRO",
+    "date_from": "2026-08-17",
+    "date_to": "2026-08-30",
+    "nights": [
+      7,
+      9
+    ],
+    "adults": 3,
+    "children_ages": [
+      4,
+      7,
+      7,
+      8
+    ],
+    "pax": 7
+  },
+  "source": "Ryanair fare finder API (services-api.ryanair.com)",
+  "note": "Ceny za 1 osobę w PLN; family_total = cena × liczba osób. Tylko Ryanair — Wizz Air i inni przewoźnicy nieuwzględnieni.",
+  "errors": [],
+  "destinations": [
+    {
+      "airport": "BLQ",
+      "city": "Bolonia",
+      "airport_name": "Bolonia",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "BLQ",
+          "city": "Bolonia",
+          "airport_name": "Bolonia",
+          "outbound": "2026-08-18T21:15:00",
+          "inbound": "2026-08-25T23:20:00",
+          "nights": 7,
+          "price_per_person": 229.03,
+          "currency": "PLN",
+          "family_total": 1603.21
+        },
+        {
+          "airport": "BLQ",
+          "city": "Bolonia",
+          "airport_name": "Bolonia",
+          "outbound": "2026-08-17T21:15:00",
+          "inbound": "2026-08-25T23:20:00",
+          "nights": 8,
+          "price_per_person": 238.26,
+          "currency": "PLN",
+          "family_total": 1667.82
+        },
+        {
+          "airport": "BLQ",
+          "city": "Bolonia",
+          "airport_name": "Bolonia",
+          "outbound": "2026-08-20T20:10:00",
+          "inbound": "2026-08-27T22:15:00",
+          "nights": 7,
+          "price_per_person": 367.37,
+          "currency": "PLN",
+          "family_total": 2571.59
+        }
+      ],
+      "cheapest_family_total": 1603.21
+    },
+    {
+      "airport": "BGY",
+      "city": "Bergamo",
+      "airport_name": "Mediolan-Bergamo",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "BGY",
+          "city": "Bergamo",
+          "airport_name": "Mediolan-Bergamo",
+          "outbound": "2026-08-18T18:05:00",
+          "inbound": "2026-08-26T08:50:00",
+          "nights": 8,
+          "price_per_person": 276.58,
+          "currency": "PLN",
+          "family_total": 1936.06
+        },
+        {
+          "airport": "BGY",
+          "city": "Bergamo",
+          "airport_name": "Mediolan-Bergamo",
+          "outbound": "2026-08-20T23:15:00",
+          "inbound": "2026-08-28T08:40:00",
+          "nights": 8,
+          "price_per_person": 289.56,
+          "currency": "PLN",
+          "family_total": 2026.92
+        },
+        {
+          "airport": "BGY",
+          "city": "Bergamo",
+          "airport_name": "Mediolan-Bergamo",
+          "outbound": "2026-08-19T06:45:00",
+          "inbound": "2026-08-26T08:50:00",
+          "nights": 7,
+          "price_per_person": 354.4,
+          "currency": "PLN",
+          "family_total": 2480.8
+        }
+      ],
+      "cheapest_family_total": 1936.06
+    },
+    {
+      "airport": "RJK",
+      "city": "Rijeka",
+      "airport_name": "Rijeka",
+      "country": "Chorwacja",
+      "options": [
+        {
+          "airport": "RJK",
+          "city": "Rijeka",
+          "airport_name": "Rijeka",
+          "outbound": "2026-08-20T07:35:00",
+          "inbound": "2026-08-27T09:35:00",
+          "nights": 7,
+          "price_per_person": 317.49,
+          "currency": "PLN",
+          "family_total": 2222.43
+        },
+        {
+          "airport": "RJK",
+          "city": "Rijeka",
+          "airport_name": "Rijeka",
+          "outbound": "2026-08-19T10:40:00",
+          "inbound": "2026-08-27T09:35:00",
+          "nights": 8,
+          "price_per_person": 347.55,
+          "currency": "PLN",
+          "family_total": 2432.85
+        },
+        {
+          "airport": "RJK",
+          "city": "Rijeka",
+          "airport_name": "Rijeka",
+          "outbound": "2026-08-23T08:50:00",
+          "inbound": "2026-08-30T10:50:00",
+          "nights": 7,
+          "price_per_person": 687.1,
+          "currency": "PLN",
+          "family_total": 4809.7
+        }
+      ],
+      "cheapest_family_total": 2222.43
+    },
+    {
+      "airport": "BDS",
+      "city": "Brindisi",
+      "airport_name": "Brindisi",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "BDS",
+          "city": "Brindisi",
+          "airport_name": "Brindisi",
+          "outbound": "2026-08-17T05:50:00",
+          "inbound": "2026-08-24T08:20:00",
+          "nights": 7,
+          "price_per_person": 381.9,
+          "currency": "PLN",
+          "family_total": 2673.3
+        },
+        {
+          "airport": "BDS",
+          "city": "Brindisi",
+          "airport_name": "Brindisi",
+          "outbound": "2026-08-21T19:25:00",
+          "inbound": "2026-08-28T22:00:00",
+          "nights": 7,
+          "price_per_person": 478.14,
+          "currency": "PLN",
+          "family_total": 3346.98
+        },
+        {
+          "airport": "BDS",
+          "city": "Brindisi",
+          "airport_name": "Brindisi",
+          "outbound": "2026-08-22T08:55:00",
+          "inbound": "2026-08-29T12:00:00",
+          "nights": 7,
+          "price_per_person": 660.89,
+          "currency": "PLN",
+          "family_total": 4626.23
+        }
+      ],
+      "cheapest_family_total": 2673.3
+    },
+    {
+      "airport": "ZAD",
+      "city": "Zadar",
+      "airport_name": "Zadar",
+      "country": "Chorwacja",
+      "options": [
+        {
+          "airport": "ZAD",
+          "city": "Zadar",
+          "airport_name": "Zadar",
+          "outbound": "2026-08-19T20:40:00",
+          "inbound": "2026-08-28T23:30:00",
+          "nights": 9,
+          "price_per_person": 397.01,
+          "currency": "PLN",
+          "family_total": 2779.07
+        },
+        {
+          "airport": "ZAD",
+          "city": "Zadar",
+          "airport_name": "Zadar",
+          "outbound": "2026-08-21T21:30:00",
+          "inbound": "2026-08-28T23:30:00",
+          "nights": 7,
+          "price_per_person": 397.01,
+          "currency": "PLN",
+          "family_total": 2779.07
+        },
+        {
+          "airport": "ZAD",
+          "city": "Zadar",
+          "airport_name": "Zadar",
+          "outbound": "2026-08-18T21:35:00",
+          "inbound": "2026-08-25T23:35:00",
+          "nights": 7,
+          "price_per_person": 418.48,
+          "currency": "PLN",
+          "family_total": 2929.36
+        }
+      ],
+      "cheapest_family_total": 2779.07
+    },
+    {
+      "airport": "CIA",
+      "city": "Rzym",
+      "airport_name": "Rzym-Ciampino",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "CIA",
+          "city": "Rzym",
+          "airport_name": "Rzym-Ciampino",
+          "outbound": "2026-08-19T16:05:00",
+          "inbound": "2026-08-27T17:40:00",
+          "nights": 8,
+          "price_per_person": 424.06,
+          "currency": "PLN",
+          "family_total": 2968.42
+        },
+        {
+          "airport": "CIA",
+          "city": "Rzym",
+          "airport_name": "Rzym-Ciampino",
+          "outbound": "2026-08-18T12:40:00",
+          "inbound": "2026-08-27T17:40:00",
+          "nights": 9,
+          "price_per_person": 445.18,
+          "currency": "PLN",
+          "family_total": 3116.26
+        },
+        {
+          "airport": "CIA",
+          "city": "Rzym",
+          "airport_name": "Rzym-Ciampino",
+          "outbound": "2026-08-21T10:45:00",
+          "inbound": "2026-08-28T13:10:00",
+          "nights": 7,
+          "price_per_person": 475.44,
+          "currency": "PLN",
+          "family_total": 3328.08
+        }
+      ],
+      "cheapest_family_total": 2968.42
+    },
+    {
+      "airport": "PSA",
+      "city": "Piza",
+      "airport_name": "Piza",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "PSA",
+          "city": "Piza",
+          "airport_name": "Piza",
+          "outbound": "2026-08-22T05:45:00",
+          "inbound": "2026-08-29T08:10:00",
+          "nights": 7,
+          "price_per_person": 427.34,
+          "currency": "PLN",
+          "family_total": 2991.38
+        },
+        {
+          "airport": "PSA",
+          "city": "Piza",
+          "airport_name": "Piza",
+          "outbound": "2026-08-19T20:35:00",
+          "inbound": "2026-08-26T22:55:00",
+          "nights": 7,
+          "price_per_person": 436.91,
+          "currency": "PLN",
+          "family_total": 3058.37
+        },
+        {
+          "airport": "PSA",
+          "city": "Piza",
+          "airport_name": "Piza",
+          "outbound": "2026-08-23T14:20:00",
+          "inbound": "2026-08-30T12:05:00",
+          "nights": 7,
+          "price_per_person": 860.28,
+          "currency": "PLN",
+          "family_total": 6021.96
+        }
+      ],
+      "cheapest_family_total": 2991.38
+    },
+    {
+      "airport": "DBV",
+      "city": "Dubrovnik",
+      "airport_name": "Dubrownik",
+      "country": "Chorwacja",
+      "options": [
+        {
+          "airport": "DBV",
+          "city": "Dubrovnik",
+          "airport_name": "Dubrownik",
+          "outbound": "2026-08-22T22:15:00",
+          "inbound": "2026-08-29T20:00:00",
+          "nights": 7,
+          "price_per_person": 430.7,
+          "currency": "PLN",
+          "family_total": 3014.9
+        },
+        {
+          "airport": "DBV",
+          "city": "Dubrovnik",
+          "airport_name": "Dubrownik",
+          "outbound": "2026-08-21T06:00:00",
+          "inbound": "2026-08-28T08:10:00",
+          "nights": 7,
+          "price_per_person": 546.64,
+          "currency": "PLN",
+          "family_total": 3826.48
+        },
+        {
+          "airport": "DBV",
+          "city": "Dubrovnik",
+          "airport_name": "Dubrownik",
+          "outbound": "2026-08-20T05:50:00",
+          "inbound": "2026-08-28T08:10:00",
+          "nights": 8,
+          "price_per_person": 551.92,
+          "currency": "PLN",
+          "family_total": 3863.44
+        }
+      ],
+      "cheapest_family_total": 3014.9
+    },
+    {
+      "airport": "PSR",
+      "city": "Pescara",
+      "airport_name": "Pescara",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "PSR",
+          "city": "Pescara",
+          "airport_name": "Pescara",
+          "outbound": "2026-08-23T21:05:00",
+          "inbound": "2026-08-30T23:20:00",
+          "nights": 7,
+          "price_per_person": 462.47,
+          "currency": "PLN",
+          "family_total": 3237.29
+        },
+        {
+          "airport": "PSR",
+          "city": "Pescara",
+          "airport_name": "Pescara",
+          "outbound": "2026-08-21T08:50:00",
+          "inbound": "2026-08-28T06:30:00",
+          "nights": 7,
+          "price_per_person": 620.35,
+          "currency": "PLN",
+          "family_total": 4342.45
+        }
+      ],
+      "cheapest_family_total": 3237.29
+    },
+    {
+      "airport": "TSF",
+      "city": "Wenecja",
+      "airport_name": "Wenecja-Treviso",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "TSF",
+          "city": "Wenecja",
+          "airport_name": "Wenecja-Treviso",
+          "outbound": "2026-08-23T19:40:00",
+          "inbound": "2026-08-30T21:40:00",
+          "nights": 7,
+          "price_per_person": 462.47,
+          "currency": "PLN",
+          "family_total": 3237.29
+        },
+        {
+          "airport": "TSF",
+          "city": "Wenecja",
+          "airport_name": "Wenecja-Treviso",
+          "outbound": "2026-08-19T07:25:00",
+          "inbound": "2026-08-26T09:25:00",
+          "nights": 7,
+          "price_per_person": 492.73,
+          "currency": "PLN",
+          "family_total": 3449.11
+        },
+        {
+          "airport": "TSF",
+          "city": "Wenecja",
+          "airport_name": "Wenecja-Treviso",
+          "outbound": "2026-08-21T13:45:00",
+          "inbound": "2026-08-30T21:40:00",
+          "nights": 9,
+          "price_per_person": 571.6,
+          "currency": "PLN",
+          "family_total": 4001.2
+        }
+      ],
+      "cheapest_family_total": 3237.29
+    },
+    {
+      "airport": "ATH",
+      "city": "Ateny",
+      "airport_name": "Ateny",
+      "country": "Grecja",
+      "options": [
+        {
+          "airport": "ATH",
+          "city": "Ateny",
+          "airport_name": "Ateny",
+          "outbound": "2026-08-20T17:55:00",
+          "inbound": "2026-08-27T21:55:00",
+          "nights": 7,
+          "price_per_person": 469.0,
+          "currency": "PLN",
+          "family_total": 3283.0
+        },
+        {
+          "airport": "ATH",
+          "city": "Ateny",
+          "airport_name": "Ateny",
+          "outbound": "2026-08-19T19:25:00",
+          "inbound": "2026-08-27T21:55:00",
+          "nights": 8,
+          "price_per_person": 474.46,
+          "currency": "PLN",
+          "family_total": 3321.22
+        },
+        {
+          "airport": "ATH",
+          "city": "Ateny",
+          "airport_name": "Ateny",
+          "outbound": "2026-08-17T18:00:00",
+          "inbound": "2026-08-26T23:25:00",
+          "nights": 9,
+          "price_per_person": 566.22,
+          "currency": "PLN",
+          "family_total": 3963.54
+        }
+      ],
+      "cheapest_family_total": 3283.0
+    },
+    {
+      "airport": "SVQ",
+      "city": "Sewilla",
+      "airport_name": "Sewilla",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "SVQ",
+          "city": "Sewilla",
+          "airport_name": "Sewilla",
+          "outbound": "2026-08-23T06:15:00",
+          "inbound": "2026-08-30T10:25:00",
+          "nights": 7,
+          "price_per_person": 558.35,
+          "currency": "PLN",
+          "family_total": 3908.45
+        },
+        {
+          "airport": "SVQ",
+          "city": "Sewilla",
+          "airport_name": "Sewilla",
+          "outbound": "2026-08-20T07:25:00",
+          "inbound": "2026-08-27T11:40:00",
+          "nights": 7,
+          "price_per_person": 748.48,
+          "currency": "PLN",
+          "family_total": 5239.36
+        }
+      ],
+      "cheapest_family_total": 3908.45
+    },
+    {
+      "airport": "SUF",
+      "city": "Lamezia",
+      "airport_name": "Lamezia",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "SUF",
+          "city": "Lamezia",
+          "airport_name": "Lamezia",
+          "outbound": "2026-08-17T07:05:00",
+          "inbound": "2026-08-24T09:50:00",
+          "nights": 7,
+          "price_per_person": 561.57,
+          "currency": "PLN",
+          "family_total": 3930.99
+        },
+        {
+          "airport": "SUF",
+          "city": "Lamezia",
+          "airport_name": "Lamezia",
+          "outbound": "2026-08-21T12:50:00",
+          "inbound": "2026-08-28T10:05:00",
+          "nights": 7,
+          "price_per_person": 662.62,
+          "currency": "PLN",
+          "family_total": 4638.34
+        }
+      ],
+      "cheapest_family_total": 3930.99
+    },
+    {
+      "airport": "PMO",
+      "city": "Palermo",
+      "airport_name": "Palermo",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "PMO",
+          "city": "Palermo",
+          "airport_name": "Palermo",
+          "outbound": "2026-08-18T06:05:00",
+          "inbound": "2026-08-25T08:55:00",
+          "nights": 7,
+          "price_per_person": 567.76,
+          "currency": "PLN",
+          "family_total": 3974.32
+        },
+        {
+          "airport": "PMO",
+          "city": "Palermo",
+          "airport_name": "Palermo",
+          "outbound": "2026-08-23T17:40:00",
+          "inbound": "2026-08-30T20:30:00",
+          "nights": 7,
+          "price_per_person": 674.46,
+          "currency": "PLN",
+          "family_total": 4721.22
+        },
+        {
+          "airport": "PMO",
+          "city": "Palermo",
+          "airport_name": "Palermo",
+          "outbound": "2026-08-17T16:10:00",
+          "inbound": "2026-08-25T08:55:00",
+          "nights": 8,
+          "price_per_person": 675.98,
+          "currency": "PLN",
+          "family_total": 4731.86
+        }
+      ],
+      "cheapest_family_total": 3974.32
+    },
+    {
+      "airport": "RMI",
+      "city": "Rimini",
+      "airport_name": "Rimini",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "RMI",
+          "city": "Rimini",
+          "airport_name": "Rimini",
+          "outbound": "2026-08-20T10:20:00",
+          "inbound": "2026-08-27T12:35:00",
+          "nights": 7,
+          "price_per_person": 570.55,
+          "currency": "PLN",
+          "family_total": 3993.85
+        },
+        {
+          "airport": "RMI",
+          "city": "Rimini",
+          "airport_name": "Rimini",
+          "outbound": "2026-08-23T08:05:00",
+          "inbound": "2026-08-30T10:20:00",
+          "nights": 7,
+          "price_per_person": 622.43,
+          "currency": "PLN",
+          "family_total": 4357.01
+        }
+      ],
+      "cheapest_family_total": 3993.85
+    },
+    {
+      "airport": "GRO",
+      "city": "Girona",
+      "airport_name": "Barcelona-Girona",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "GRO",
+          "city": "Girona",
+          "airport_name": "Barcelona-Girona",
+          "outbound": "2026-08-17T22:05:00",
+          "inbound": "2026-08-26T10:20:00",
+          "nights": 9,
+          "price_per_person": 579.23,
+          "currency": "PLN",
+          "family_total": 4054.61
+        },
+        {
+          "airport": "GRO",
+          "city": "Girona",
+          "airport_name": "Barcelona-Girona",
+          "outbound": "2026-08-21T17:55:00",
+          "inbound": "2026-08-29T05:45:00",
+          "nights": 8,
+          "price_per_person": 596.48,
+          "currency": "PLN",
+          "family_total": 4175.36
+        },
+        {
+          "airport": "GRO",
+          "city": "Girona",
+          "airport_name": "Barcelona-Girona",
+          "outbound": "2026-08-22T08:40:00",
+          "inbound": "2026-08-29T05:45:00",
+          "nights": 7,
+          "price_per_person": 669.97,
+          "currency": "PLN",
+          "family_total": 4689.79
+        }
+      ],
+      "cheapest_family_total": 4054.61
+    },
+    {
+      "airport": "PMI",
+      "city": "Palma",
+      "airport_name": "Palma",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "PMI",
+          "city": "Palma",
+          "airport_name": "Palma",
+          "outbound": "2026-08-18T17:55:00",
+          "inbound": "2026-08-25T21:20:00",
+          "nights": 7,
+          "price_per_person": 608.87,
+          "currency": "PLN",
+          "family_total": 4262.09
+        },
+        {
+          "airport": "PMI",
+          "city": "Palma",
+          "airport_name": "Palma",
+          "outbound": "2026-08-19T10:55:00",
+          "inbound": "2026-08-26T14:20:00",
+          "nights": 7,
+          "price_per_person": 628.26,
+          "currency": "PLN",
+          "family_total": 4397.82
+        },
+        {
+          "airport": "PMI",
+          "city": "Palma",
+          "airport_name": "Palma",
+          "outbound": "2026-08-17T18:55:00",
+          "inbound": "2026-08-25T21:20:00",
+          "nights": 8,
+          "price_per_person": 674.67,
+          "currency": "PLN",
+          "family_total": 4722.69
+        }
+      ],
+      "cheapest_family_total": 4262.09
+    },
+    {
+      "airport": "MLA",
+      "city": "Malta",
+      "airport_name": "Malta",
+      "country": "Malta",
+      "options": [
+        {
+          "airport": "MLA",
+          "city": "Malta",
+          "airport_name": "Malta",
+          "outbound": "2026-08-19T18:00:00",
+          "inbound": "2026-08-26T05:45:00",
+          "nights": 7,
+          "price_per_person": 608.91,
+          "currency": "PLN",
+          "family_total": 4262.37
+        },
+        {
+          "airport": "MLA",
+          "city": "Malta",
+          "airport_name": "Malta",
+          "outbound": "2026-08-18T05:55:00",
+          "inbound": "2026-08-26T05:45:00",
+          "nights": 8,
+          "price_per_person": 654.4,
+          "currency": "PLN",
+          "family_total": 4580.8
+        },
+        {
+          "airport": "MLA",
+          "city": "Malta",
+          "airport_name": "Malta",
+          "outbound": "2026-08-21T15:45:00",
+          "inbound": "2026-08-29T15:30:00",
+          "nights": 8,
+          "price_per_person": 699.06,
+          "currency": "PLN",
+          "family_total": 4893.42
+        }
+      ],
+      "cheapest_family_total": 4262.37
+    },
+    {
+      "airport": "AGP",
+      "city": "Malaga",
+      "airport_name": "Malaga",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "AGP",
+          "city": "Malaga",
+          "airport_name": "Malaga",
+          "outbound": "2026-08-18T21:10:00",
+          "inbound": "2026-08-26T10:05:00",
+          "nights": 8,
+          "price_per_person": 635.35,
+          "currency": "PLN",
+          "family_total": 4447.45
+        },
+        {
+          "airport": "AGP",
+          "city": "Malaga",
+          "airport_name": "Malaga",
+          "outbound": "2026-08-23T10:55:00",
+          "inbound": "2026-08-30T06:50:00",
+          "nights": 7,
+          "price_per_person": 703.17,
+          "currency": "PLN",
+          "family_total": 4922.19
+        },
+        {
+          "airport": "AGP",
+          "city": "Malaga",
+          "airport_name": "Malaga",
+          "outbound": "2026-08-19T05:45:00",
+          "inbound": "2026-08-26T10:05:00",
+          "nights": 7,
+          "price_per_person": 717.28,
+          "currency": "PLN",
+          "family_total": 5020.96
+        }
+      ],
+      "cheapest_family_total": 4447.45
+    },
+    {
+      "airport": "VLC",
+      "city": "Walencja",
+      "airport_name": "Walencja",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "VLC",
+          "city": "Walencja",
+          "airport_name": "Walencja",
+          "outbound": "2026-08-19T14:05:00",
+          "inbound": "2026-08-28T09:35:00",
+          "nights": 9,
+          "price_per_person": 673.97,
+          "currency": "PLN",
+          "family_total": 4717.79
+        },
+        {
+          "airport": "VLC",
+          "city": "Walencja",
+          "airport_name": "Walencja",
+          "outbound": "2026-08-20T06:05:00",
+          "inbound": "2026-08-28T09:35:00",
+          "nights": 8,
+          "price_per_person": 678.63,
+          "currency": "PLN",
+          "family_total": 4750.41
+        },
+        {
+          "airport": "VLC",
+          "city": "Walencja",
+          "airport_name": "Walencja",
+          "outbound": "2026-08-21T06:00:00",
+          "inbound": "2026-08-28T09:35:00",
+          "nights": 7,
+          "price_per_person": 713.21,
+          "currency": "PLN",
+          "family_total": 4992.47
+        }
+      ],
+      "cheapest_family_total": 4717.79
+    },
+    {
+      "airport": "ALC",
+      "city": "Alicante",
+      "airport_name": "Alicante",
+      "country": "Hiszpania",
+      "options": [
+        {
+          "airport": "ALC",
+          "city": "Alicante",
+          "airport_name": "Alicante",
+          "outbound": "2026-08-18T05:55:00",
+          "inbound": "2026-08-25T09:45:00",
+          "nights": 7,
+          "price_per_person": 731.46,
+          "currency": "PLN",
+          "family_total": 5120.22
+        },
+        {
+          "airport": "ALC",
+          "city": "Alicante",
+          "airport_name": "Alicante",
+          "outbound": "2026-08-21T09:20:00",
+          "inbound": "2026-08-28T05:50:00",
+          "nights": 7,
+          "price_per_person": 767.0,
+          "currency": "PLN",
+          "family_total": 5369.0
+        },
+        {
+          "airport": "ALC",
+          "city": "Alicante",
+          "airport_name": "Alicante",
+          "outbound": "2026-08-17T06:10:00",
+          "inbound": "2026-08-25T09:45:00",
+          "nights": 8,
+          "price_per_person": 824.86,
+          "currency": "PLN",
+          "family_total": 5774.02
+        }
+      ],
+      "cheapest_family_total": 5120.22
+    },
+    {
+      "airport": "CFU",
+      "city": "Korfu",
+      "airport_name": "Korfu",
+      "country": "Grecja",
+      "options": [
+        {
+          "airport": "CFU",
+          "city": "Korfu",
+          "airport_name": "Korfu",
+          "outbound": "2026-08-20T20:15:00",
+          "inbound": "2026-08-27T23:55:00",
+          "nights": 7,
+          "price_per_person": 793.03,
+          "currency": "PLN",
+          "family_total": 5551.21
+        },
+        {
+          "airport": "CFU",
+          "city": "Korfu",
+          "airport_name": "Korfu",
+          "outbound": "2026-08-22T12:45:00",
+          "inbound": "2026-08-29T16:30:00",
+          "nights": 7,
+          "price_per_person": 1080.67,
+          "currency": "PLN",
+          "family_total": 7564.69
+        },
+        {
+          "airport": "CFU",
+          "city": "Korfu",
+          "airport_name": "Korfu",
+          "outbound": "2026-08-17T14:10:00",
+          "inbound": "2026-08-24T18:05:00",
+          "nights": 7,
+          "price_per_person": 1089.31,
+          "currency": "PLN",
+          "family_total": 7625.17
+        }
+      ],
+      "cheapest_family_total": 5551.21
+    },
+    {
+      "airport": "NAP",
+      "city": "Neapol",
+      "airport_name": "Neapol",
+      "country": "Włochy",
+      "options": [
+        {
+          "airport": "NAP",
+          "city": "Neapol",
+          "airport_name": "Neapol",
+          "outbound": "2026-08-19T15:30:00",
+          "inbound": "2026-08-26T18:00:00",
+          "nights": 7,
+          "price_per_person": 838.14,
+          "currency": "PLN",
+          "family_total": 5866.98
+        },
+        {
+          "airport": "NAP",
+          "city": "Neapol",
+          "airport_name": "Neapol",
+          "outbound": "2026-08-23T15:50:00",
+          "inbound": "2026-08-30T13:15:00",
+          "nights": 7,
+          "price_per_person": 862.11,
+          "currency": "PLN",
+          "family_total": 6034.77
+        }
+      ],
+      "cheapest_family_total": 5866.98
+    },
+    {
+      "airport": "CHQ",
+      "city": "Chania",
+      "airport_name": "Chania (Kreta)",
+      "country": "Grecja",
+      "options": [
+        {
+          "airport": "CHQ",
+          "city": "Chania",
+          "airport_name": "Chania (Kreta)",
+          "outbound": "2026-08-19T11:25:00",
+          "inbound": "2026-08-26T15:40:00",
+          "nights": 7,
+          "price_per_person": 1008.46,
+          "currency": "PLN",
+          "family_total": 7059.22
+        },
+        {
+          "airport": "CHQ",
+          "city": "Chania",
+          "airport_name": "Chania (Kreta)",
+          "outbound": "2026-08-23T12:45:00",
+          "inbound": "2026-08-30T17:00:00",
+          "nights": 7,
+          "price_per_person": 1197.38,
+          "currency": "PLN",
+          "family_total": 8381.66
+        },
+        {
+          "airport": "CHQ",
+          "city": "Chania",
+          "airport_name": "Chania (Kreta)",
+          "outbound": "2026-08-20T11:30:00",
+          "inbound": "2026-08-27T15:45:00",
+          "nights": 7,
+          "price_per_person": 1249.26,
+          "currency": "PLN",
+          "family_total": 8744.82
+        }
+      ],
+      "cheapest_family_total": 7059.22
+    }
+  ]
+}

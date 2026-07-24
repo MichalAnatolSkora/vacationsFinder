@@ -28,9 +28,9 @@ jedzenie_dzien_pln = 250   # szacunek na rodzinę 7 os./dzień przy własnym wy�
 [nocleg]
 budzet_max_pln = 16000    # budżet na sam nocleg — używany tylko gdy brak sekcji [budzet]
 ocena_min = 8.0
-# Run "obiady na miejscu": restauracja na terenie obiektu to twardy wymóg
-# (posiłki mogą być do dokupienia, nie muszą być w cenie).
-udogodnienia = ["klimatyzacja", "restauracja"]
+# Run "dla wszystkich": bez filtra typu obiektu i wyżywienia — hotele, wille
+# i apartamenty konkurują na równi; o kolejności decyduje punktacja udogodnień.
+udogodnienia = ["klimatyzacja"]
 max_km_od_plazy = 20       # planowany wynajem auta, więc plaża może być dalej
 
 [loty]
@@ -45,19 +45,20 @@ budzet_max_pln = 0         # 0 = bez limitu, po prostu szukamy najtańszych
 # Uwaga (zweryfikowane na stronach obiektów): "Wieczorne rozrywki" u booking
 # często oznacza DJ-a/karaoke/kasyno w okolicy, nie animacje dla dzieci —
 # stąd niska waga. Prawdziwy sygnał animacji to "Klub dla dzieci"/"Animacje".
-# Run "obiady na miejscu" — priorytet: gastronomia. Restauracji nie punktujemy,
-# bo jest wymagana (każdy obiekt by ją dostał); punktujemy to, co ją wzbogaca.
+# Run "dla wszystkich" — mix atrakcji dla dzieci i dorosłych.
 [scoring.udogodnienia]
-"posiłki dla dzieci" = 5
-bufet = 3                     # np. "Bufet z potrawami dla dzieci", bufet śniadaniowy
-"śniadanie" = 3               # formy śniadań w obiekcie
-"bar przy basenie" = 2
-"wieczory tematyczne" = 2     # kolacje tematyczne
-# drugorzędnie — atrakcje rodzinne:
-basen = 3
-"klub dla dzieci" = 3
-animacj = 3
-"plac zabaw" = 2
-"sala zabaw" = 2
-jacuzzi = 2
-"dla dzieci" = 1
+basen = 5
+"prywatny basen" = 5          # basen tylko dla nas > basen współdzielony
+jacuzzi = 4
+"hydromasaż" = 4
+sauna = 2
+"prywatna plaża" = 3
+animacj = 6                   # "Animacje dla dzieci" itp. (gdy pojawią się w danych)
+"klub dla dzieci" = 6
+"plac zabaw" = 4
+"sala zabaw" = 4
+"dla dzieci" = 2              # łapie m.in.: basen/książki/bramki dla dzieci
+opieka = 2                    # "Opieka nad dziećmi"
+"wieczorne rozrywki" = 1
+"wieczory tematyczne" = 1
+"gry planszowe" = 1

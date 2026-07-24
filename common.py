@@ -54,6 +54,8 @@ BOOKING_AMENITY_CODES = {
     "sniadanie i kolacja": "mealplan=9",
     "pelne wyzywienie": "mealplan=3",
     "all inclusive": "mealplan=4",
+    # Gastronomia na miejscu
+    "restauracja": "hotelfacility=3",
     # Basen
     "basen": "hotelfacility=433",
     "prywatny basen": "roomfacility=93",
