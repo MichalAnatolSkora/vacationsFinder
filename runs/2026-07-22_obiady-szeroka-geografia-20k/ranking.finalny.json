@@ -1,0 +1,6015 @@
+{
+  "file_role": "FINALNY — obiekty z lodging.finalny.json posortowane wg punktów za udogodnienia z config.toml ([scoring.udogodnienia]).",
+  "generated_at": "2026-07-24T21:35:03",
+  "lodging_generated_at": "2026-07-24T21:18:18",
+  "note": "Ranking obiektów z lodging.finalny.json wg punktów za udogodnienia. Sortowanie: punkty malejąco, potem cena za pobyt rosnąco. matched = które słowo kluczowe złapało które udogodnienia.",
+  "scoring": {
+    "posiłki dla dzieci": 5,
+    "bufet": 3,
+    "śniadanie": 3,
+    "bar przy basenie": 2,
+    "wieczory tematyczne": 2,
+    "basen": 3,
+    "klub dla dzieci": 3,
+    "animacj": 3,
+    "plac zabaw": 2,
+    "sala zabaw": 2,
+    "jacuzzi": 2,
+    "dla dzieci": 1
+  },
+  "ranking": [
+    {
+      "score": 24,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "3 baseny",
+          "Basen dla dzieci"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Ai Pozzi Village & SPA",
+      "review_score": 8.3,
+      "reviews": 2277,
+      "lodging_total_pln": 12245,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 16703.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 18703.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/ai-pozzi-village.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 23,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Wyjątkowe śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Dei Platani",
+      "review_score": 8.0,
+      "reviews": 53,
+      "lodging_total_pln": 9939,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 16184.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17934.61,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/dei-platani.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 23,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Wyjątkowe śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Dei Platani",
+      "review_score": 8.0,
+      "reviews": 53,
+      "lodging_total_pln": 12548,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16582.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18332.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/dei-platani.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 21,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "bar przy basenie": [
+          "Bar przy basenie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Basen z widokiem",
+          "Bar przy basenie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Brindisi (Włochy)",
+      "search_area": "Ostuni",
+      "checkin": "2026-08-17",
+      "checkout": "2026-08-24",
+      "nights": 7,
+      "name": "Masseria Sciaiani Piccola",
+      "review_score": 8.3,
+      "reviews": 25,
+      "lodging_total_pln": 11077,
+      "flight_family_total_pln": 5435.92,
+      "flight": {
+        "airport": "BDS",
+        "city": "Brindisi",
+        "airport_name": "Brindisi",
+        "outbound": "2026-08-17T05:50:00",
+        "inbound": "2026-08-24T08:20:00",
+        "nights": 7,
+        "price_per_person": 416.56,
+        "currency": "PLN",
+        "family_total": 2915.92,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5435.92
+      },
+      "trip_total_pln": 16512.92,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18262.92,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/masseria-sciaiani-piccola.pl.html?checkin=2026-08-17&checkout=2026-08-24&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 19,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Zadar (Chorwacja)",
+      "search_area": "Zadar",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-28",
+      "nights": 9,
+      "name": "Zelena Punta Resort",
+      "review_score": 8.2,
+      "reviews": 266,
+      "lodging_total_pln": 12059,
+      "flight_family_total_pln": 5307.89,
+      "flight": {
+        "airport": "ZAD",
+        "city": "Zadar",
+        "airport_name": "Zadar",
+        "outbound": "2026-08-19T20:40:00",
+        "inbound": "2026-08-28T23:30:00",
+        "nights": 9,
+        "price_per_person": 398.27,
+        "currency": "PLN",
+        "family_total": 2787.89,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5307.89
+      },
+      "trip_total_pln": 17366.89,
+      "food_estimate_pln": 2250,
+      "trip_total_with_food_pln": 19616.89,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/zelena-punta.pl.html?checkin=2026-08-19&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 18,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Antonella",
+      "review_score": 8.3,
+      "reviews": 1488,
+      "lodging_total_pln": 7565,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 13331.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15081.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/antonella.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 18,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Płotek wokół basenu",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci",
+          "Książki, DVD lub muzyka dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Cesenatico",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Donegal",
+      "review_score": 8.6,
+      "reviews": 57,
+      "lodging_total_pln": 11402,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 15436.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17186.1,
+      "beach": "350 m od plaży",
+      "url": "https://www.booking.com/hotel/it/donegal.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 17,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "2 baseny",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci",
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "La Cueva Park",
+      "review_score": 8.2,
+      "reviews": 2204,
+      "lodging_total_pln": 9708,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16445.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18195.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/la-cueva-park.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "hu Roma Camping In Town",
+      "review_score": 8.5,
+      "reviews": 26746,
+      "lodging_total_pln": 8126,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 13892.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15642.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/camping-village-roma.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Holland",
+      "review_score": 8.6,
+      "reviews": 212,
+      "lodging_total_pln": 8310,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14555.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16305.61,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/holland.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Sandra",
+      "review_score": 8.4,
+      "reviews": 503,
+      "lodging_total_pln": 9567,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 15812.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17562.61,
+      "beach": "350 m od plaży",
+      "url": "https://www.booking.com/hotel/it/sandra-rivazzurra-di-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Basen bez krawędzi",
+          "Płotek wokół basenu"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Ristorante Dragonara",
+      "review_score": 8.1,
+      "reviews": 1921,
+      "lodging_total_pln": 9569,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 15663.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17413.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/ristorante-dragonara.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "basen": [
+          "3 baseny"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci",
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Fabulous village",
+      "review_score": 8.3,
+      "reviews": 6112,
+      "lodging_total_pln": 9593,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 15359.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17109.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/camping-village-fabulous.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Wyjątkowe śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "2 baseny",
+          "Prywatny basen",
+          "Basen z widokiem",
+          "Zadaszony basen",
+          "Płotek wokół basenu",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "B&B La Casa in Campagna",
+      "review_score": 9.3,
+      "reviews": 169,
+      "lodging_total_pln": 10613,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 16707.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18457.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/b-amp-b-la-casa-in-campagna.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "bar przy basenie": [
+          "Bar przy basenie"
+        ],
+        "basen": [
+          "2 baseny",
+          "Basen bez krawędzi",
+          "Bar przy basenie",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Holiday Inn Rome - Eur Parco Dei Medici by IHG",
+      "review_score": 8.1,
+      "reviews": 3178,
+      "lodging_total_pln": 10984,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16750.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18500.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/holidayinnrome.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 16,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Znakomite śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "bar przy basenie": [
+          "Bar przy basenie"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Prywatny basen",
+          "Basen z widokiem",
+          "Bar przy basenie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "I Gelsi e i Castagni",
+      "review_score": 8.6,
+      "reviews": 405,
+      "lodging_total_pln": 11710,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 16168.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 18168.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/i-gelsi-e-i-castagni.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 15,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Civitel Attik Rooms & Suites",
+      "review_score": 8.2,
+      "reviews": 602,
+      "lodging_total_pln": 10395,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 16330.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18080.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/civitel-attik.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 15,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Bramki zabezpieczające dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Cesenatico",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Milord",
+      "review_score": 8.9,
+      "reviews": 844,
+      "lodging_total_pln": 13174,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 17208.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18958.1,
+      "beach": "350 m od plaży",
+      "url": "https://www.booking.com/hotel/it/milord-cesenatico-cesenatico.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 14,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Tirrenia",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Al Borgo",
+      "review_score": 8.5,
+      "reviews": 231,
+      "lodging_total_pln": 7613,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 13152.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14902.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/al-borgo-lucca.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 14,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Kryty basen",
+          "Basen z podgrzewaną wodą"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "E1 Suites & Spa aparthotel style - Gym & Spa",
+      "review_score": 9.0,
+      "reviews": 1563,
+      "lodging_total_pln": 11247,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 17984.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19734.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gi/e1-suites-amp-spa.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 13,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Tiberius",
+      "review_score": 8.4,
+      "reviews": 557,
+      "lodging_total_pln": 7594,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13839.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15589.61,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/tiberius.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 13,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Lido di Classe",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Camping Village Lido di Classe",
+      "review_score": 8.4,
+      "reviews": 95,
+      "lodging_total_pln": 12620,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16654.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18404.1,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/camping-lido-di-classe.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Saint Tropez - Pineto",
+      "review_score": 8.9,
+      "reviews": 192,
+      "lodging_total_pln": 9771,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 15865.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17615.2,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/saint-tropez-pineto.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Basen z widokiem",
+          "Płotek wokół basenu"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Novotel Genova City",
+      "review_score": 8.2,
+      "reviews": 3677,
+      "lodging_total_pln": 10882,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 15340.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 17340.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/novotelgenovaovest.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Kennedy",
+      "review_score": 8.0,
+      "reviews": 1,
+      "lodging_total_pln": 12245,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16279.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18029.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/kennedy-rimini.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 12,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "AC Hotel Genova by Marriott",
+      "review_score": 8.5,
+      "reviews": 1285,
+      "lodging_total_pln": 12862,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 17320.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 19320.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/ac-genova.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Dell'Angelo",
+      "review_score": 9.3,
+      "reviews": 78,
+      "lodging_total_pln": 8497,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14742.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16492.61,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/dell-angelo-bellariva.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie w pokoju"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)",
+          "Bramki zabezpieczające dla dzieci"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Residence I Triangoli",
+      "review_score": 8.2,
+      "reviews": 149,
+      "lodging_total_pln": 8872,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 14638.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16388.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/i-triangoli-residence-ville.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Veliero",
+      "review_score": 8.1,
+      "reviews": 76,
+      "lodging_total_pln": 9473,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 15718.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17468.61,
+      "beach": "300 m od plaży",
+      "url": "https://www.booking.com/hotel/it/veliero-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Paola Garden",
+      "review_score": 8.0,
+      "reviews": 231,
+      "lodging_total_pln": 10738,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 14772.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16522.1,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/paola-garden.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Ristorante Alla Botte",
+      "review_score": 8.0,
+      "reviews": 258,
+      "lodging_total_pln": 11068,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 16738.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18488.0,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/ristorante-alla-botte.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Bike Resort Overland",
+      "review_score": 9.1,
+      "reviews": 26,
+      "lodging_total_pln": 11090,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 15548.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 17548.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/sv-toirano1.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Stella Alpina",
+      "review_score": 8.2,
+      "reviews": 77,
+      "lodging_total_pln": 11511,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 15545.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17295.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/stella-alpina-rimini1.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Riccione",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Cormoran Riccione",
+      "review_score": 8.0,
+      "reviews": 634,
+      "lodging_total_pln": 12363,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16397.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18147.1,
+      "beach": "250 m od plaży",
+      "url": "https://www.booking.com/hotel/it/cormoran.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Riccione",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Graziana",
+      "review_score": 8.8,
+      "reviews": 69,
+      "lodging_total_pln": 13374,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 17408.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19158.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/graziana.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 11,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Dell'Angelo",
+      "review_score": 9.3,
+      "reviews": 78,
+      "lodging_total_pln": 13591,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 17625.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19375.1,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/dell-angelo-bellariva.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 10,
+      "matched": {
+        "bar przy basenie": [
+          "Bar przy basenie"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Basen bez krawędzi",
+          "Bar przy basenie",
+          "Płotek wokół basenu"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Camping Village Torre Pendente",
+      "review_score": 8.5,
+      "reviews": 3043,
+      "lodging_total_pln": 10379,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 15918.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17668.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/camping-village-torre-pendente.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Palermo (Włochy)",
+      "search_area": "Mondello",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-26",
+      "nights": 8,
+      "name": "Villa Scaduto Residence",
+      "review_score": 8.3,
+      "reviews": 303,
+      "lodging_total_pln": 5927,
+      "flight_family_total_pln": 6847.4,
+      "flight": {
+        "airport": "PMO",
+        "city": "Palermo",
+        "airport_name": "Palermo",
+        "outbound": "2026-08-18T06:05:00",
+        "inbound": "2026-08-26T16:30:00",
+        "nights": 8,
+        "price_per_person": 618.2,
+        "currency": "PLN",
+        "family_total": 4327.4,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6847.4
+      },
+      "trip_total_pln": 12774.4,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 14774.4,
+      "beach": "1,7 km od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-scaduto-residence-club-house.pl.html?checkin=2026-08-18&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "basen": [
+          "Basen dla dzieci"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi"
+        ],
+        "dla dzieci": [
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Aros",
+      "review_score": 8.6,
+      "reviews": 97,
+      "lodging_total_pln": 7099,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13344.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15094.61,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/aros.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Znakomite śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Avana Mare",
+      "review_score": 8.0,
+      "reviews": 492,
+      "lodging_total_pln": 7346,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13591.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15341.61,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/avana-mare.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Galileo",
+      "review_score": 8.2,
+      "reviews": 871,
+      "lodging_total_pln": 7542,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13787.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15537.61,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/galileo.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Il Vecchio Mulino",
+      "review_score": 9.2,
+      "reviews": 159,
+      "lodging_total_pln": 8075,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 14169.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15919.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/il-vecchio-mulino-brecciarola-chieti.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Airone",
+      "review_score": 8.4,
+      "reviews": 125,
+      "lodging_total_pln": 9136,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 15381.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17131.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/airone-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "S Hotel",
+      "review_score": 8.5,
+      "reviews": 416,
+      "lodging_total_pln": 9600,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 15694.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17444.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/s.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "basen": [
+          "2 baseny",
+          "Mały basen"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "wecamp Cádiz",
+      "review_score": 9.2,
+      "reviews": 414,
+      "lodging_total_pln": 9607,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16344.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18094.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/wecamp-cadiz.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Warmthotel",
+      "review_score": 8.9,
+      "reviews": 2361,
+      "lodging_total_pln": 9856,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 15622.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17372.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/warmth-hotel.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "The Athens Version Luxury Suites",
+      "review_score": 8.4,
+      "reviews": 509,
+      "lodging_total_pln": 9944,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 15879.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17629.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/the-athens-edition-luxury-suites.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Club Meeting Hotel",
+      "review_score": 8.2,
+      "reviews": 677,
+      "lodging_total_pln": 10323,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 16568.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18318.61,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/clubmeetinghotel.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "basen": [
+          "2 baseny",
+          "Prywatny basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Nelson",
+      "review_score": 8.8,
+      "reviews": 187,
+      "lodging_total_pln": 10495,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 16740.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18490.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/nelson.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "The Caesar Roma",
+      "review_score": 8.0,
+      "reviews": 551,
+      "lodging_total_pln": 10622,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16388.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18138.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/holiday-inn-rome-pisana.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "La Casa Degli Angeli - Agli Angeli Ristorante Pizzeria",
+      "review_score": 9.6,
+      "reviews": 73,
+      "lodging_total_pln": 10717,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 16387.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18137.0,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/la-casa-degli-angeli.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Agriturismo Cà da Nonna Rosa",
+      "review_score": 8.6,
+      "reviews": 20,
+      "lodging_total_pln": 10929,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 15387.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 17387.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/agriturismo-ca-da-nonna-rosa.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Best Western Premier CHC Airport",
+      "review_score": 8.5,
+      "reviews": 3112,
+      "lodging_total_pln": 11544,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 16002.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 18002.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/best-western-premier-chc-airport.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Galileo",
+      "review_score": 8.2,
+      "reviews": 871,
+      "lodging_total_pln": 11643,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 15677.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17427.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/galileo.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Pra' Grande",
+      "review_score": 9.0,
+      "reviews": 83,
+      "lodging_total_pln": 11826,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 17496.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19246.0,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/pra-grande.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "agriturismo Piccolo Albero",
+      "review_score": 8.9,
+      "reviews": 63,
+      "lodging_total_pln": 12039,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 18133.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19883.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/agriturismo-piccolo-albero.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Sissi",
+      "review_score": 8.1,
+      "reviews": 136,
+      "lodging_total_pln": 12062,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16096.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17846.1,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/sissi-rimini.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "basen": [
+          "2 baseny",
+          "Prywatny basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Nelson",
+      "review_score": 8.8,
+      "reviews": 187,
+      "lodging_total_pln": 12677,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16711.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18461.1,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/nelson.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci"
+        ],
+        "śniadanie": [
+          "Fantastyczne śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Club Meeting Hotel",
+      "review_score": 8.2,
+      "reviews": 677,
+      "lodging_total_pln": 13624,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 17658.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19408.1,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/clubmeetinghotel.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 9,
+      "matched": {
+        "posiłki dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ],
+        "śniadanie": [
+          "Dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Posiłki dla dzieci (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Villa Argia Rimini Marina Centro",
+      "review_score": 8.6,
+      "reviews": 957,
+      "lodging_total_pln": 13972,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 18006.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19756.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-argia.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Novotel Roma Eur",
+      "review_score": 8.3,
+      "reviews": 1726,
+      "lodging_total_pln": 8003,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 13769.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15519.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/op.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Gemini",
+      "review_score": 8.2,
+      "reviews": 1930,
+      "lodging_total_pln": 10134,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 16379.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18129.61,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/gemini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Theoxenia House Hotel",
+      "review_score": 8.4,
+      "reviews": 695,
+      "lodging_total_pln": 10665,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 16600.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18350.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/theoxeniahousehotel.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Apis",
+      "review_score": 8.0,
+      "reviews": 862,
+      "lodging_total_pln": 10776,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 17021.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18771.61,
+      "beach": "250 m od plaży",
+      "url": "https://www.booking.com/hotel/it/hotelapisrimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 8,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "2 baseny"
+        ],
+        "jacuzzi": [
+          "Wanna z hydromasażem / jacuzzi (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Theoxenia Palace",
+      "review_score": 8.0,
+      "reviews": 1663,
+      "lodging_total_pln": 11420,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 17355.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19105.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/theoxeniapalacekifissia.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "basen": [
+          "Basen – odkryty (dla dzieci)",
+          "Basen dla dzieci"
+        ],
+        "dla dzieci": [
+          "Basen – odkryty (dla dzieci)",
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Tirrenia",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Degas",
+      "review_score": 9.0,
+      "reviews": 16,
+      "lodging_total_pln": 6732,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 12271.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14021.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/degas-caprona.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Widok na basen",
+          "Basen dla dzieci"
+        ],
+        "dla dzieci": [
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Carol & Residence Grazia",
+      "review_score": 8.3,
+      "reviews": 49,
+      "lodging_total_pln": 7618,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13863.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15613.61,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/carol-amp-residence-grazia.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "bufet": [
+          "Bufet z potrawami dla dzieci"
+        ],
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "dla dzieci": [
+          "Bufet z potrawami dla dzieci"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "International Atene hotel",
+      "review_score": 8.2,
+      "reviews": 4497,
+      "lodging_total_pln": 9537,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 15472.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17222.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/international-atene.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen",
+          "Widok na basen",
+          "Basen dla dzieci"
+        ],
+        "dla dzieci": [
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Carol & Residence Grazia",
+      "review_score": 8.3,
+      "reviews": 49,
+      "lodging_total_pln": 10408,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 14442.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16192.1,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/carol-amp-residence-grazia.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 7,
+      "matched": {
+        "śniadanie": [
+          "Fantastyczne śniadanie"
+        ],
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Botel Marina",
+      "review_score": 8.1,
+      "reviews": 940,
+      "lodging_total_pln": 12035,
+      "flight_family_total_pln": 4700.22,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 311.46,
+        "currency": "PLN",
+        "family_total": 2180.22,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4700.22
+      },
+      "trip_total_pln": 16735.22,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18485.22,
+      "beach": "2,3 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/botel-marina.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "basen": [
+          "2 baseny",
+          "Basen bez krawędzi",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Odpowiedni dla dzieci",
+          "Basen dla dzieci",
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Pini Village Lido Altanea",
+      "review_score": 8.8,
+      "reviews": 806,
+      "lodging_total_pln": 7348,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 13018.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14768.0,
+      "beach": "300 m od plaży",
+      "url": "https://www.booking.com/hotel/it/pini-village.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "śniadanie": [
+          "Fantastyczne śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Rosati",
+      "review_score": 8.8,
+      "reviews": 430,
+      "lodging_total_pln": 8509,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14754.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16504.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/rosati-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "basen": [
+          "2 baseny",
+          "Prywatny basen",
+          "Basen z widokiem",
+          "Płotek wokół basenu",
+          "Widok na basen"
+        ],
+        "plac zabaw": [
+          "Plac zabaw",
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Książki, DVD lub muzyka dla dzieci",
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Signora Ruth - Aprilia Residence",
+      "review_score": 9.5,
+      "reviews": 16,
+      "lodging_total_pln": 9557,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 15227.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16977.0,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/appartamento-bello.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Antica Locanda Palmieri",
+      "review_score": 8.4,
+      "reviews": 176,
+      "lodging_total_pln": 10250,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16016.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17766.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/antica-locanda-palmieri.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Grand Hotel Tiberio",
+      "review_score": 8.5,
+      "reviews": 2407,
+      "lodging_total_pln": 10470,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16236.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17986.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/grand-tiberio.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "basen": [
+          "Odkryty basen"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Orto Di Roma",
+      "review_score": 8.3,
+      "reviews": 186,
+      "lodging_total_pln": 11462,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 17228.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18978.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/orto-di-roma.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "basen": [
+          "Odkryty basen",
+          "Basen dla dzieci"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci",
+          "Basen dla dzieci"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Punta Falconera camping & village",
+      "review_score": 8.7,
+      "reviews": 99,
+      "lodging_total_pln": 12461,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 18131.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19881.0,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/campeggio-falconera.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 6,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Riccione",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Pigalle",
+      "review_score": 9.5,
+      "reviews": 348,
+      "lodging_total_pln": 14210,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 18244.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19994.1,
+      "beach": "300 m od plaży",
+      "url": "https://www.booking.com/hotel/it/pigalle-riccione.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Albergo Roma Spiaggia",
+      "review_score": 8.7,
+      "reviews": 35,
+      "lodging_total_pln": 9033,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 15278.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17028.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/albergo-roma-spiaggia.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Cesenatico",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel La Parigina",
+      "review_score": 8.8,
+      "reviews": 290,
+      "lodging_total_pln": 9407,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 13441.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15191.1,
+      "beach": "400 m od plaży",
+      "url": "https://www.booking.com/hotel/it/la-parigina-cesenatico.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie",
+          "Śniadanie w pokoju"
+        ],
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "affittacamere de al vecchio scalo",
+      "review_score": null,
+      "reviews": 1,
+      "lodging_total_pln": 9801,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 14259.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 16259.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/affittacamere-de-al-vecchio-scalo.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 5,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ],
+        "plac zabaw": [
+          "Plac zabaw"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Puerta de Algadir",
+      "review_score": 8.0,
+      "reviews": 2315,
+      "lodging_total_pln": 10055,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16792.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18542.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/puerta-de-la-bahia.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 4,
+      "matched": {
+        "klub dla dzieci": [
+          "Klub dla dzieci"
+        ],
+        "dla dzieci": [
+          "Klub dla dzieci"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Robinia/Pinetine Lido Altanea",
+      "review_score": 8.3,
+      "reviews": 202,
+      "lodging_total_pln": 5939,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 11609.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 13359.0,
+      "beach": "400 m od plaży",
+      "url": "https://www.booking.com/hotel/it/robinia-47-pinetine-lido-altanea.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 4,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw"
+        ],
+        "sala zabaw": [
+          "Sala zabaw"
+        ]
+      },
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Camping Roma",
+      "review_score": 8.3,
+      "reviews": 447,
+      "lodging_total_pln": 9712,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 14170.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 16170.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/camping-roma.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Palermo (Włochy)",
+      "search_area": "Cefalù",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-26",
+      "nights": 8,
+      "name": "Agriturismo La Targa",
+      "review_score": 8.2,
+      "reviews": 76,
+      "lodging_total_pln": 6266,
+      "flight_family_total_pln": 6847.4,
+      "flight": {
+        "airport": "PMO",
+        "city": "Palermo",
+        "airport_name": "Palermo",
+        "outbound": "2026-08-18T06:05:00",
+        "inbound": "2026-08-26T16:30:00",
+        "nights": 8,
+        "price_per_person": 618.2,
+        "currency": "PLN",
+        "family_total": 4327.4,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6847.4
+      },
+      "trip_total_pln": 13113.4,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 15113.4,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/agriturismo-la-targa-florio.pl.html?checkin=2026-08-18&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "basen": [
+          "2 baseny",
+          "Prywatny basen"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Tarifa Beach apartment with ocean views and pool",
+      "review_score": 8.2,
+      "reviews": 31,
+      "lodging_total_pln": 6316,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 13053.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14803.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/sea-apartment-views-tarifa-wifi.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Arix Hotel",
+      "review_score": 9.0,
+      "reviews": 345,
+      "lodging_total_pln": 7010,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13255.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15005.61,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/arix.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Color Hotel Rimini",
+      "review_score": 8.7,
+      "reviews": 594,
+      "lodging_total_pln": 7037,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13282.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15032.61,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/trevi-rivazzurra.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Orchard",
+      "review_score": 9.0,
+      "reviews": 7,
+      "lodging_total_pln": 7538,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 13473.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15223.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/orchard.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Pensione Fiorella Rimini",
+      "review_score": 8.3,
+      "reviews": 67,
+      "lodging_total_pln": 7571,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 13816.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15566.61,
+      "beach": "350 m od plaży",
+      "url": "https://www.booking.com/hotel/it/pensione-fiorella-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Crystal City Hotel",
+      "review_score": 8.1,
+      "reviews": 2984,
+      "lodging_total_pln": 7671,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 13606.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15356.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/crystal-city-athens.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Albergue Inturjoven Huelva",
+      "review_score": 8.2,
+      "reviews": 253,
+      "lodging_total_pln": 8236,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 14973.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16723.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/albergue-inturjoven-huelva.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Villa Madana",
+      "review_score": 8.0,
+      "reviews": 481,
+      "lodging_total_pln": 8255,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14500.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16250.61,
+      "beach": "250 m od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-madana.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Arix Hotel",
+      "review_score": 9.0,
+      "reviews": 345,
+      "lodging_total_pln": 8347,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 12381.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14131.1,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/arix.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Fantastyczne śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Marylise",
+      "review_score": 8.0,
+      "reviews": 662,
+      "lodging_total_pln": 8355,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14600.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16350.61,
+      "beach": "50 m od plaży",
+      "url": "https://www.booking.com/hotel/it/marylise.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Acropol Hotel",
+      "review_score": 8.6,
+      "reviews": 592,
+      "lodging_total_pln": 8430,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 14365.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16115.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/acropol-hotel-chalandri.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Mir Octavio",
+      "review_score": 8.2,
+      "reviews": 5334,
+      "lodging_total_pln": 8447,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 15184.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16934.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/vime-octavio.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Colombo",
+      "review_score": 8.3,
+      "reviews": 127,
+      "lodging_total_pln": 8452,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14697.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16447.61,
+      "beach": "50 m od plaży",
+      "url": "https://www.booking.com/hotel/it/colombo-rimini.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Cesenatico",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "King Hotel",
+      "review_score": 8.3,
+      "reviews": 56,
+      "lodging_total_pln": 8526,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 12560.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14310.1,
+      "beach": "300 m od plaży",
+      "url": "https://www.booking.com/hotel/it/roi-cesenatico.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Mercure Roma West",
+      "review_score": 8.1,
+      "reviews": 670,
+      "lodging_total_pln": 8629,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 14395.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16145.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/mercure-roma-west.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Sacramora",
+      "review_score": 8.1,
+      "reviews": 409,
+      "lodging_total_pln": 8735,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 14980.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16730.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/sacramora.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Znakomite śniadanie"
+        ]
+      },
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Crikvenica",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "FIORE Seaview Rooms - Premium Location",
+      "review_score": 8.4,
+      "reviews": 195,
+      "lodging_total_pln": 8870,
+      "flight_family_total_pln": 4700.22,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 311.46,
+        "currency": "PLN",
+        "family_total": 2180.22,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4700.22
+      },
+      "trip_total_pln": 13570.22,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15320.22,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/fiore-selce.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Holiday Inn Express Campo de Gibraltar-Barrios by IHG",
+      "review_score": 8.4,
+      "reviews": 3329,
+      "lodging_total_pln": 8915,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 15652.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17402.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/holiday-inn-express-algeciras.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Rimini (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Laika",
+      "review_score": 8.1,
+      "reviews": 1411,
+      "lodging_total_pln": 9483,
+      "flight_family_total_pln": 6245.61,
+      "flight": {
+        "airport": "RMI",
+        "city": "Rimini",
+        "airport_name": "Rimini",
+        "outbound": "2026-08-23T08:05:00",
+        "inbound": "2026-08-30T10:20:00",
+        "nights": 7,
+        "price_per_person": 532.23,
+        "currency": "PLN",
+        "family_total": 3725.61,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6245.61
+      },
+      "trip_total_pln": 15728.61,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17478.61,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/laika.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Pescara (Włochy)",
+      "search_area": "Pescara",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Villa Tardioli",
+      "review_score": 8.2,
+      "reviews": 41,
+      "lodging_total_pln": 9593,
+      "flight_family_total_pln": 6094.2,
+      "flight": {
+        "airport": "PSR",
+        "city": "Pescara",
+        "airport_name": "Pescara",
+        "outbound": "2026-08-23T21:05:00",
+        "inbound": "2026-08-30T23:20:00",
+        "nights": 7,
+        "price_per_person": 510.6,
+        "currency": "PLN",
+        "family_total": 3574.2,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6094.2
+      },
+      "trip_total_pln": 15687.2,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17437.2,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/villa-tardioli-poggiofiorito.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Sercotel Aura Algeciras",
+      "review_score": 8.4,
+      "reviews": 2464,
+      "lodging_total_pln": 9880,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16617.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18367.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/citymar-algeciras.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci",
+          "Plac zabaw"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Portugal",
+      "review_score": 8.6,
+      "reviews": 134,
+      "lodging_total_pln": 9899,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16636.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18386.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/portugal.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Apartamentos Larga 70",
+      "review_score": 8.6,
+      "reviews": 446,
+      "lodging_total_pln": 9938,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16675.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18425.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/apartamentos-larga-70.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Villa Madana",
+      "review_score": 8.0,
+      "reviews": 481,
+      "lodging_total_pln": 10211,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 14245.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15995.1,
+      "beach": "250 m od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-madana.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Tirrenia",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Hotel Ristorante da Carlos",
+      "review_score": 8.4,
+      "reviews": 252,
+      "lodging_total_pln": 10583,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 16122.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17872.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/hotelristorantedacarloslucca.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Familia Conde",
+      "review_score": 8.3,
+      "reviews": 3992,
+      "lodging_total_pln": 10592,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 17329.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19079.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/familia-conde.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "plac zabaw": [
+          "Plac zabaw dla dzieci"
+        ],
+        "dla dzieci": [
+          "Plac zabaw dla dzieci"
+        ]
+      },
+      "destination": "Malta (Malta)",
+      "search_area": "Malta",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-26",
+      "nights": 7,
+      "name": "Islet Promenade Seafront Aparthotel - 1 Bedroom Apartments with sea view balcony by Getawaysmalta",
+      "review_score": 9.1,
+      "reviews": 266,
+      "lodging_total_pln": 10646,
+      "flight_family_total_pln": 7019.18,
+      "flight": {
+        "airport": "MLA",
+        "city": "Malta",
+        "airport_name": "Malta",
+        "outbound": "2026-08-19T08:55:00",
+        "inbound": "2026-08-26T05:45:00",
+        "nights": 7,
+        "price_per_person": 642.74,
+        "currency": "PLN",
+        "family_total": 4499.18,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 7019.18
+      },
+      "trip_total_pln": 17665.18,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19415.18,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/mt/promenade-1-bedroom.pl.html?checkin=2026-08-19&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "The Colours Of Rome",
+      "review_score": 8.8,
+      "reviews": 736,
+      "lodging_total_pln": 10726,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16492.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18242.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/the-colours-of-rome.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Bardzo dobre śniadanie"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Riccione",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Vela D'Oro",
+      "review_score": 8.4,
+      "reviews": 376,
+      "lodging_total_pln": 11218,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 15252.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17002.1,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/it/vela-d-39-oro.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Śniadanie"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Lido di Jesolo",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Garni Tosca",
+      "review_score": 8.3,
+      "reviews": 590,
+      "lodging_total_pln": 11333,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 17003.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18753.0,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/garni-tosca.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Tirrenia",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "Villa Rosy",
+      "review_score": 8.6,
+      "reviews": 410,
+      "lodging_total_pln": 11883,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 17422.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19172.66,
+      "beach": "1,7 km od plaży",
+      "url": "https://www.booking.com/hotel/it/albergo-villa-rosy.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Dobre śniadanie",
+          "Śniadanie w pokoju"
+        ]
+      },
+      "destination": "Piza (Włochy)",
+      "search_area": "Piza",
+      "checkin": "2026-08-22",
+      "checkout": "2026-08-29",
+      "nights": 7,
+      "name": "AC Hotel by Marriott Pisa",
+      "review_score": 8.0,
+      "reviews": 1030,
+      "lodging_total_pln": 12076,
+      "flight_family_total_pln": 5539.66,
+      "flight": {
+        "airport": "PSA",
+        "city": "Piza",
+        "airport_name": "Piza",
+        "outbound": "2026-08-22T05:45:00",
+        "inbound": "2026-08-29T08:10:00",
+        "nights": 7,
+        "price_per_person": 431.38,
+        "currency": "PLN",
+        "family_total": 3019.66,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5539.66
+      },
+      "trip_total_pln": 17615.66,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19365.66,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/ac-pisa.pl.html?checkin=2026-08-22&checkout=2026-08-29&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 3,
+      "matched": {
+        "śniadanie": [
+          "Wyjątkowe śniadanie"
+        ]
+      },
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Riccione",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Atilius Hotel & Suites",
+      "review_score": 8.9,
+      "reviews": 876,
+      "lodging_total_pln": 14179,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 18213.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19963.1,
+      "beach": "100 m od plaży",
+      "url": "https://www.booking.com/hotel/it/atilius.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Wenecja (Włochy)",
+      "search_area": "Bibione",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Modern SunHouse Lignano",
+      "review_score": 9.5,
+      "reviews": 12,
+      "lodging_total_pln": 10423,
+      "flight_family_total_pln": 5670.0,
+      "flight": {
+        "airport": "TSF",
+        "city": "Wenecja",
+        "airport_name": "Wenecja-Treviso",
+        "outbound": "2026-08-23T19:40:00",
+        "inbound": "2026-08-30T21:40:00",
+        "nights": 7,
+        "price_per_person": 450.0,
+        "currency": "PLN",
+        "family_total": 3150.0,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5670.0
+      },
+      "trip_total_pln": 16093.0,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17843.0,
+      "beach": "1,2 km od plaży",
+      "url": "https://www.booking.com/hotel/it/golden-sand-lignano-sabbiadoro.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 2,
+      "matched": {
+        "wieczory tematyczne": [
+          "Wieczory tematyczne z kolacją (dodatkowa opłata)"
+        ]
+      },
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "The Boathouse Company - Casa flotante experience - Real Club Náutico, El Puerto de Santa María",
+      "review_score": 8.7,
+      "reviews": 290,
+      "lodging_total_pln": 11233,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 17970.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19720.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/the-boathouse-company-casa-flotante-experience-real-club-nautico-el-puerto-de-sa.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Ariston Hotel",
+      "review_score": 8.1,
+      "reviews": 1545,
+      "lodging_total_pln": 5913,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 11848.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 13598.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/ariston.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Boss Boutique Athens by Prima Hotels",
+      "review_score": 8.1,
+      "reviews": 2586,
+      "lodging_total_pln": 6327,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 12262.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 14012.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/boss-boutique-athens.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Zadar (Chorwacja)",
+      "search_area": "Zadar",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-28",
+      "nights": 9,
+      "name": "Apartments Maricic",
+      "review_score": 9.7,
+      "reviews": 48,
+      "lodging_total_pln": 7102,
+      "flight_family_total_pln": 5307.89,
+      "flight": {
+        "airport": "ZAD",
+        "city": "Zadar",
+        "airport_name": "Zadar",
+        "outbound": "2026-08-19T20:40:00",
+        "inbound": "2026-08-28T23:30:00",
+        "nights": 9,
+        "price_per_person": 398.27,
+        "currency": "PLN",
+        "family_total": 2787.89,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5307.89
+      },
+      "trip_total_pln": 12409.89,
+      "food_estimate_pln": 2250,
+      "trip_total_with_food_pln": 14659.89,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/apartments-maricic.pl.html?checkin=2026-08-19&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Palermo (Włochy)",
+      "search_area": "Mondello",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-26",
+      "nights": 8,
+      "name": "Hostelò - Luxury Hostel",
+      "review_score": 9.0,
+      "reviews": 468,
+      "lodging_total_pln": 7142,
+      "flight_family_total_pln": 6847.4,
+      "flight": {
+        "airport": "PMO",
+        "city": "Palermo",
+        "airport_name": "Palermo",
+        "outbound": "2026-08-18T06:05:00",
+        "inbound": "2026-08-26T16:30:00",
+        "nights": 8,
+        "price_per_person": 618.2,
+        "currency": "PLN",
+        "family_total": 4327.4,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6847.4
+      },
+      "trip_total_pln": 13989.4,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 15989.4,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/hostelo-luxury-hostel.pl.html?checkin=2026-08-18&checkout=2026-08-26&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Zadar (Chorwacja)",
+      "search_area": "Zadar",
+      "checkin": "2026-08-19",
+      "checkout": "2026-08-28",
+      "nights": 9,
+      "name": "Apartment House Zdrelac - Meri",
+      "review_score": null,
+      "reviews": 10,
+      "lodging_total_pln": 8058,
+      "flight_family_total_pln": 5307.89,
+      "flight": {
+        "airport": "ZAD",
+        "city": "Zadar",
+        "airport_name": "Zadar",
+        "outbound": "2026-08-19T20:40:00",
+        "inbound": "2026-08-28T23:30:00",
+        "nights": 9,
+        "price_per_person": 398.27,
+        "currency": "PLN",
+        "family_total": 2787.89,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5307.89
+      },
+      "trip_total_pln": 13365.89,
+      "food_estimate_pln": 2250,
+      "trip_total_with_food_pln": 15615.89,
+      "beach": "900 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/apartman-kuca-zdrelac.pl.html?checkin=2026-08-19&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Hotel Catalán Puerto Real",
+      "review_score": 8.1,
+      "reviews": 770,
+      "lodging_total_pln": 8577,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 15314.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17064.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/catalan-puerto-real.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Senator Huelva",
+      "review_score": 8.4,
+      "reviews": 6659,
+      "lodging_total_pln": 9141,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 15878.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17628.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/monteconquero.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Crikvenica",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Casa del Sole & Garage",
+      "review_score": 8.7,
+      "reviews": 171,
+      "lodging_total_pln": 9368,
+      "flight_family_total_pln": 4700.22,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 311.46,
+        "currency": "PLN",
+        "family_total": 2180.22,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4700.22
+      },
+      "trip_total_pln": 14068.22,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15818.22,
+      "beach": "Przy plaży",
+      "url": "https://www.booking.com/hotel/hr/casa-del-sole.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Best Western Hotel I Triangoli",
+      "review_score": 8.2,
+      "reviews": 627,
+      "lodging_total_pln": 9385,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 15151.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 16901.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/i-triangoli.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Rijeka",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Hostel Kvarner-Rooms with private bathrooms& Dorms",
+      "review_score": 8.1,
+      "reviews": 433,
+      "lodging_total_pln": 9513,
+      "flight_family_total_pln": 4700.22,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 311.46,
+        "currency": "PLN",
+        "family_total": 2180.22,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4700.22
+      },
+      "trip_total_pln": 14213.22,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 15963.22,
+      "beach": "2,9 km od plaży",
+      "url": "https://www.booking.com/hotel/hr/hostel-kvarner.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Over the Roman ruins",
+      "review_score": 9.1,
+      "reviews": 27,
+      "lodging_total_pln": 9569,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 15335.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17085.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/over-the-roman-ruins-roma.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Casa Palacio de los Leones",
+      "review_score": 8.5,
+      "reviews": 594,
+      "lodging_total_pln": 10164,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 16901.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18651.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/casa-palacio-de-los-leones.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Le Ghiande Guest House",
+      "review_score": 9.6,
+      "reviews": 301,
+      "lodging_total_pln": 10362,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 16128.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17878.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/le-ghiande-guest-house.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Sewilla (Hiszpania)",
+      "search_area": "Costa de la Luz",
+      "checkin": "2026-08-23",
+      "checkout": "2026-08-30",
+      "nights": 7,
+      "name": "Crisol Chiclana",
+      "review_score": 8.4,
+      "reviews": 1132,
+      "lodging_total_pln": 10518,
+      "flight_family_total_pln": 6737.99,
+      "flight": {
+        "airport": "SVQ",
+        "city": "Sewilla",
+        "airport_name": "Sewilla",
+        "outbound": "2026-08-23T06:15:00",
+        "inbound": "2026-08-30T10:25:00",
+        "nights": 7,
+        "price_per_person": 602.57,
+        "currency": "PLN",
+        "family_total": 4217.99,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 6737.99
+      },
+      "trip_total_pln": 17255.99,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19005.99,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/es/crisolchiclana.pl.html?checkin=2026-08-23&checkout=2026-08-30&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rijeka (Chorwacja)",
+      "search_area": "Crikvenica",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Apartmani Selina",
+      "review_score": 9.2,
+      "reviews": 6,
+      "lodging_total_pln": 10917,
+      "flight_family_total_pln": 4700.22,
+      "flight": {
+        "airport": "RJK",
+        "city": "Rijeka",
+        "airport_name": "Rijeka",
+        "outbound": "2026-08-20T07:35:00",
+        "inbound": "2026-08-27T09:35:00",
+        "nights": 7,
+        "price_per_person": 311.46,
+        "currency": "PLN",
+        "family_total": 2180.22,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4700.22
+      },
+      "trip_total_pln": 15617.22,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17367.22,
+      "beach": "500 m od plaży",
+      "url": "https://www.booking.com/hotel/hr/apartmani-47-sobe-selina.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "507 Athens",
+      "review_score": 8.9,
+      "reviews": 242,
+      "lodging_total_pln": 11016,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 16951.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18701.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/athens-507-bc-ike.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Cinque Terre The Arcade Apartment - Two bathrooms",
+      "review_score": 9.2,
+      "reviews": 60,
+      "lodging_total_pln": 11436,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 15894.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 17894.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/cinque-terre-the-arcade-apartment-two-bathrooms.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Ateny (Grecja)",
+      "search_area": "Ateny",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-27",
+      "nights": 7,
+      "name": "Athens Tiare by Mage Hotels",
+      "review_score": 8.2,
+      "reviews": 1198,
+      "lodging_total_pln": 11900,
+      "flight_family_total_pln": 5935.44,
+      "flight": {
+        "airport": "ATH",
+        "city": "Ateny",
+        "airport_name": "Ateny",
+        "outbound": "2026-08-20T17:55:00",
+        "inbound": "2026-08-27T21:55:00",
+        "nights": 7,
+        "price_per_person": 487.92,
+        "currency": "PLN",
+        "family_total": 3415.44,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5935.44
+      },
+      "trip_total_pln": 17835.44,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19585.44,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/gr/athens-tiare.pl.html?checkin=2026-08-20&checkout=2026-08-27&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Villa Irene & Spa",
+      "review_score": 9.2,
+      "reviews": 31,
+      "lodging_total_pln": 12209,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16243.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 17993.1,
+      "beach": "150 m od plaży",
+      "url": "https://www.booking.com/hotel/it/villa-irene-amp-spa.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Rzym (Włochy)",
+      "search_area": "Lido di Ostia",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Precise House Mantegna Roma",
+      "review_score": 9.3,
+      "reviews": 2932,
+      "lodging_total_pln": 12373,
+      "flight_family_total_pln": 5766.74,
+      "flight": {
+        "airport": "CIA",
+        "city": "Rzym",
+        "airport_name": "Rzym-Ciampino",
+        "outbound": "2026-08-18T12:40:00",
+        "inbound": "2026-08-25T15:05:00",
+        "nights": 7,
+        "price_per_person": 463.82,
+        "currency": "PLN",
+        "family_total": 3246.74,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 5766.74
+      },
+      "trip_total_pln": 18139.74,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19889.74,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/precise-mantegna.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bergamo (Włochy)",
+      "search_area": "Liguria",
+      "checkin": "2026-08-20",
+      "checkout": "2026-08-28",
+      "nights": 8,
+      "name": "Mercure Genova San Biagio",
+      "review_score": 8.3,
+      "reviews": 2925,
+      "lodging_total_pln": 12663,
+      "flight_family_total_pln": 4458.23,
+      "flight": {
+        "airport": "BGY",
+        "city": "Bergamo",
+        "airport_name": "Mediolan-Bergamo",
+        "outbound": "2026-08-20T23:15:00",
+        "inbound": "2026-08-28T08:40:00",
+        "nights": 8,
+        "price_per_person": 276.89,
+        "currency": "PLN",
+        "family_total": 1938.23,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4458.23
+      },
+      "trip_total_pln": 17121.23,
+      "food_estimate_pln": 2000,
+      "trip_total_with_food_pln": 19121.23,
+      "beach": null,
+      "url": "https://www.booking.com/hotel/it/mercure-genova-san-biagio-bolzaneto.pl.html?checkin=2026-08-20&checkout=2026-08-28&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Hotel Tourist Meuble",
+      "review_score": 8.2,
+      "reviews": 336,
+      "lodging_total_pln": 12747,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 16781.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 18531.1,
+      "beach": "200 m od plaży",
+      "url": "https://www.booking.com/hotel/it/meuble-39-tourist.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    },
+    {
+      "score": 0,
+      "matched": {},
+      "destination": "Bolonia (Włochy)",
+      "search_area": "Rimini",
+      "checkin": "2026-08-18",
+      "checkout": "2026-08-25",
+      "nights": 7,
+      "name": "Residence Buena Vista",
+      "review_score": 8.0,
+      "reviews": 563,
+      "lodging_total_pln": 13679,
+      "flight_family_total_pln": 4034.1,
+      "flight": {
+        "airport": "BLQ",
+        "city": "Bolonia",
+        "airport_name": "Bolonia",
+        "outbound": "2026-08-18T21:15:00",
+        "inbound": "2026-08-25T23:20:00",
+        "nights": 7,
+        "price_per_person": 216.3,
+        "currency": "PLN",
+        "family_total": 1514.1,
+        "baggage_est_pln": 2520,
+        "family_total_with_bags": 4034.1
+      },
+      "trip_total_pln": 17713.1,
+      "food_estimate_pln": 1750,
+      "trip_total_with_food_pln": 19463.1,
+      "beach": "50 m od plaży",
+      "url": "https://www.booking.com/hotel/it/residence-buena-vista.pl.html?checkin=2026-08-18&checkout=2026-08-25&group_adults=3&no_rooms=1&group_children=4&age=4&age=7&age=7&age=8&selected_currency=PLN"
+    }
+  ]
+}

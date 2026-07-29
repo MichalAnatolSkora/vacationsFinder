@@ -27,10 +27,10 @@ jedzenie_dzien_pln = 250   # szacunek na rodzinę 7 os./dzień przy własnym wy�
 
 [nocleg]
 budzet_max_pln = 16000    # budżet na sam nocleg — używany tylko gdy brak sekcji [budzet]
-ocena_min = 7.0            # booking filtruje progami co 1.0 (7.0 = "Dobry: 7+")
-# Run "szeroko": twardy wymóg to tylko klimatyzacja; restauracja przeniesiona
-# do punktacji — obiekty z nią lądują wyżej, ale reszta nie znika z wyników.
-udogodnienia = ["klimatyzacja"]
+ocena_min = 8.0
+# Run "obiady na miejscu": restauracja na terenie obiektu to twardy wymóg
+# (posiłki mogą być do dokupienia, nie muszą być w cenie).
+udogodnienia = ["klimatyzacja", "restauracja"]
 max_km_od_plazy = 20       # planowany wynajem auta, więc plaża może być dalej
 
 [loty]
@@ -52,7 +52,6 @@ bagaz_pln_szt_kierunek = 180   # szacunkowa cena za sztukę za jeden kierunek
 # Run "obiady na miejscu" — priorytet: gastronomia. Restauracji nie punktujemy,
 # bo jest wymagana (każdy obiekt by ją dostał); punktujemy to, co ją wzbogaca.
 [scoring.udogodnienia]
-restauracj = 5                # restauracja na miejscu (już nie jest wymagana)
 "posiłki dla dzieci" = 5
 bufet = 3                     # np. "Bufet z potrawami dla dzieci", bufet śniadaniowy
 "śniadanie" = 3               # formy śniadań w obiekcie

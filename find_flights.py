@@ -57,7 +57,14 @@ def fetch_country_fares(cfg: dict, country_code: str) -> list[dict]:
     return data.get("fares", [])
 
 
-def parse_fare(fare: dict, pax: int) -> dict | None:
+def baggage_estimate(cfg: dict) -> int:
+    """Szacunek za bagaż rejestrowany: sztuki × 2 kierunki × stawka."""
+    loty = cfg.get("loty", {})
+    return int(loty.get("bagaz_rejestrowany_szt", 0)) \
+        * 2 * int(loty.get("bagaz_pln_szt_kierunek", 0))
+
+
+def parse_fare(fare: dict, pax: int, bag_total: int) -> dict | None:
     out, inb = fare.get("outbound"), fare.get("inbound")
     if not out or not inb:
         return None
@@ -67,6 +74,7 @@ def parse_fare(fare: dict, pax: int) -> dict | None:
     inb_dep = datetime.fromisoformat(inb["departureDate"])
     nights = (inb_dep.date() - out_dep.date()).days
     total_pp = fare["summary"]["price"]["value"]
+    family_total = round(total_pp * pax, 2)
 
     return {
         "airport": arrival["iataCode"],
@@ -77,13 +85,16 @@ def parse_fare(fare: dict, pax: int) -> dict | None:
         "nights": nights,
         "price_per_person": round(total_pp, 2),
         "currency": fare["summary"]["price"]["currencyCode"],
-        "family_total": round(total_pp * pax, 2),
+        "family_total": family_total,
+        "baggage_est_pln": bag_total,
+        "family_total_with_bags": round(family_total + bag_total, 2),
     }
 
 
 def collect_flights(cfg: dict) -> tuple[list[dict], list[str]]:
     """Zwraca (kierunki posortowane po cenie, błędy)."""
     pax = pax_count(cfg)
+    bag_total = baggage_estimate(cfg)
     by_airport: dict[str, dict] = {}
     errors: list[str] = []
 
@@ -100,7 +111,7 @@ def collect_flights(cfg: dict) -> tuple[list[dict], list[str]]:
             continue
 
         for fare in fares:
-            parsed = parse_fare(fare, pax)
+            parsed = parse_fare(fare, pax, bag_total)
             if not parsed:
                 continue
             dest = by_airport.setdefault(
@@ -166,10 +177,14 @@ def main() -> int:
     FLIGHTS_PATH.write_text(json.dumps(results, ensure_ascii=False, indent=2))
     print(f"\nZapisano {FLIGHTS_PATH.name}")
 
-    print(f"\nKierunki wg ceny lotów dla {pax} osób (najtańsza opcja):")
+    bag_total = baggage_estimate(cfg)
+    bag_info = (f" | bagaż: {cfg['loty']['bagaz_rejestrowany_szt']} szt "
+                f"× 2 kierunki × {cfg['loty']['bagaz_pln_szt_kierunek']} zł = {bag_total} zł"
+                if bag_total else "")
+    print(f"\nKierunki wg ceny lotów dla {pax} osób (najtańsza opcja){bag_info}:")
     for dest in destinations:
         best = dest["options"][0]
-        print(f"  {dest['cheapest_family_total']:>9.2f} zł  "
+        print(f"  {best['family_total']:>8.0f} zł | z bagażem {best['family_total_with_bags']:>8.0f} zł  "
               f"{dest['city']:<18} {dest['country']:<10} "
               f"{best['outbound'][:10]} → {best['inbound'][:10]} ({best['nights']} nocy)")
 

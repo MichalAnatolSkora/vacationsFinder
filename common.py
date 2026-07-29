@@ -27,20 +27,39 @@ COUNTRY_CODES = {
     "Chorwacja": "HR",
 }
 
-# Lotniska w głębi lądu → nadmorski rejon, w którym szukamy noclegu
-# (założenie z wymagań: wynajem auta, plaża do ~20 km od lokum).
+# Kod kraju w URL-ach obiektów bookingu (booking.com/hotel/<cc>/...) —
+# do walidacji, że wynik faktycznie leży w kraju kierunku (ss bywa
+# niejednoznaczne: "Nin" w Chorwacji booking potrafi rozwiązać jako wietnamskie
+# Ninh Binh).
+COUNTRY_URL_CODES = {pl: cc.lower() for pl, cc in COUNTRY_CODES.items()}
+
+# Lotnisko → nadmorskie rejony, w których szukamy noclegu (może być kilka —
+# booking przy wyszukiwaniu po miejscowości używa wąskiego promienia, więc
+# jeden rejon na lotnisko gubi oferty z sąsiednich kurortów; założenie
+# z wymagań: wynajem auta, plaża do ~20 km od lokum).
 AIRPORT_COASTAL_AREA = {
-    "BLQ": "Rimini",          # Bolonia — wybrzeże Adriatyku ~1h autem
-    "BGY": "Liguria",         # Bergamo — najbliższe morze ~2h autem
-    "TSF": "Lido di Jesolo",  # Wenecja-Treviso
-    "VCE": "Lido di Jesolo",  # Wenecja
-    "CIA": "Lido di Ostia",   # Rzym-Ciampino
-    "FCO": "Lido di Ostia",   # Rzym-Fiumicino
-    "GRO": "Costa Brava",     # Barcelona-Girona
-    "SVQ": "Costa de la Luz", # Sewilla — wybrzeże ~1h autem
-    "BDS": "Ostuni",          # Brindisi — plaże Apulii ~40 min autem
-    "SUF": "Tropea",          # Lamezia — perła Kalabrii ~50 min autem
-    "PMO": "Cefalù",          # Palermo — rodzinne plaże Sycylii ~1h autem
+    "BLQ": ["Rimini", "Riccione", "Cattolica", "Cesenatico", "Milano Marittima", "Lido di Classe"],
+    "BGY": ["Liguria", "Alassio", "Finale Ligure"],       # Bergamo — Riwiera Liguryjska ~2h autem
+    "TSF": ["Lido di Jesolo", "Caorle", "Bibione", "Eraclea Mare"],  # Wenecja-Treviso
+    "VCE": ["Lido di Jesolo", "Caorle", "Bibione", "Eraclea Mare"],  # Wenecja
+    "CIA": ["Lido di Ostia", "Anzio"],                    # Rzym-Ciampino
+    "FCO": ["Lido di Ostia", "Anzio"],                    # Rzym-Fiumicino
+    "GRO": ["Costa Brava", "Lloret de Mar", "Roses"],     # Barcelona-Girona
+    "SVQ": ["Costa de la Luz", "Chiclana de la Frontera", "Conil de la Frontera"],  # Sewilla
+    "BDS": ["Ostuni", "Torre Canne", "Monopoli", "Polignano a Mare"],  # Brindisi — Apulia
+    "SUF": ["Tropea", "Capo Vaticano", "Pizzo"],          # Lamezia — Kalabria
+    "PMO": ["Cefalù", "Mondello", "Terrasini"],           # Palermo — Sycylia
+    "RJK": ["Rijeka", "Opatija", "Crikvenica", "Krk", "Lovran"],  # Rijeka → riwiera Kvarneru
+    "ZAD": ["Zadar", "Biograd na Moru", "Nin", "Petrčane"],       # Zadar i okolica
+    "DBV": ["Dubrovnik", "Cavtat", "Mlini"],              # Dubrownik
+    "PSA": ["Piza", "Tirrenia", "Viareggio"],             # Piza — wybrzeże Wersylii
+    "PSR": ["Pescara", "Montesilvano", "Francavilla al Mare"],    # Pescara
+    "AGP": ["Malaga", "Torremolinos", "Fuengirola", "Benalmadena"],  # Malaga — Costa del Sol
+    "ALC": ["Alicante", "Benidorm", "Torrevieja"],        # Alicante — Costa Blanca
+    "VLC": ["Walencja", "Gandia", "Cullera"],             # Walencja
+    "PMI": ["Palma", "Alcudia", "Cala Millor"],           # Majorka
+    "NAP": ["Neapol", "Sorrento", "Castellammare di Stabia"],     # Neapol
+    "ATH": ["Ateny", "Glyfada", "Vouliagmeni"],           # Ateny — Riwiera Ateńska
 }
 
 # Kody filtrów booking.com (nflt) dla udogodnień z config.toml.

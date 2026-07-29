@@ -17,12 +17,14 @@ import argparse
 import json
 import re
 import sys
+import time
 import urllib.parse
 from datetime import datetime
 
 from common import (
     AIRPORT_COASTAL_AREA,
     BOOKING_AMENITY_CODES,
+    COUNTRY_URL_CODES,
     FLIGHTS_PATH,
     LODGING_PATH,
     USER_AGENT,
@@ -179,6 +181,39 @@ def scrape_destination(page, cfg: dict, search: dict) -> list[dict]:
 MIN_LODGING_BUDGET_PLN = 3000  # poniżej tego nie ma czego szukać dla 7 osób
 
 
+def build_manual_searches(cfg: dict, args) -> list[dict]:
+    """Tryb ręczny: lot już kupiony, szukamy tylko noclegów w zadanych rejonach."""
+    from datetime import date
+    checkin, checkout = args.checkin, args.checkout
+    nights = (date.fromisoformat(checkout) - date.fromisoformat(checkin)).days
+    lodging_budget, food_est = lodging_budget_for(cfg, args.flight_cost_pln, nights)
+    searches = []
+    for area in [a.strip() for a in args.areas.split(",") if a.strip()]:
+        searches.append({
+            "destination": f"lot własny ({args.country})",
+            "country": args.country,
+            "airport": None,
+            "search_area": area,
+            "checkin": checkin,
+            "checkout": checkout,
+            "nights": nights,
+            "flight_family_total_pln": args.flight_cost_pln,
+            "flight": {
+                "airport": "-", "airport_name": "lot własny (kupiony poza wyszukiwarką)",
+                "city": "-", "outbound": f"{checkin}T00:00:00", "inbound": f"{checkout}T00:00:00",
+                "nights": nights, "price_per_person": None, "currency": "PLN",
+                "family_total": args.flight_cost_pln, "baggage_est_pln": 0,
+                "family_total_with_bags": args.flight_cost_pln,
+            },
+            "lodging_budget_pln": lodging_budget,
+            "food_estimate_pln": food_est,
+            "max_price_per_night_pln": lodging_budget // nights,
+            "booking_url": build_booking_url(cfg, area, checkin, checkout, nights,
+                                             lodging_budget // nights),
+        })
+    return searches
+
+
 def lodging_budget_for(cfg: dict, flight_total: float, nights: int) -> tuple[int, int]:
     """(budżet na nocleg, szacunek jedzenia). Z sekcji [budzet] liczymy:
     całkowity - lot - jedzenie; bez niej stały [nocleg].budzet_max_pln."""
@@ -194,35 +229,41 @@ def build_searches(cfg: dict, flights: dict, top: int) -> list[dict]:
     for dest in flights["destinations"][:top]:
         best = dest["options"][0]
         checkin, checkout = best["outbound"][:10], best["inbound"][:10]
-        area = AIRPORT_COASTAL_AREA.get(dest["airport"], dest["city"])
-        lodging_budget, food_est = lodging_budget_for(cfg, best["family_total"], best["nights"])
+        areas = AIRPORT_COASTAL_AREA.get(dest["airport"], dest["city"])
+        if isinstance(areas, str):
+            areas = [areas]
+        # Koszt lotu z bagażem (jeśli policzony) — to on obciąża budżet całkowity.
+        flight_total = best.get("family_total_with_bags", best["family_total"])
+        lodging_budget, food_est = lodging_budget_for(cfg, flight_total, best["nights"])
         if lodging_budget < MIN_LODGING_BUDGET_PLN:
             print(f"  POMIJAM {dest['city']}: po locie ({best['family_total']:.0f} zł) "
                   f"i jedzeniu ({food_est} zł) na nocleg zostaje tylko {lodging_budget} zł",
                   file=sys.stderr)
             continue
-        search = {
-            "destination": f"{dest['city']} ({dest['country']})",
-            "airport": dest["airport"],
-            "search_area": area,
-            "checkin": checkin,
-            "checkout": checkout,
-            "nights": best["nights"],
-            "flight_family_total_pln": best["family_total"],
-            # Pełne dane lotu — plik ma opisywać całość, bez zaglądania do flights.posredni.json.
-            "flight": best,
-            "lodging_budget_pln": lodging_budget,
-            "food_estimate_pln": food_est,
-            "max_price_per_night_pln": lodging_budget // best["nights"],
-            "booking_url": build_booking_url(cfg, area, checkin, checkout, best["nights"],
-                                             lodging_budget // best["nights"]),
-        }
-        if area != dest["city"]:
-            search["coast_note"] = (
-                f"Lotnisko {dest['city']} leży w głębi lądu — nocleg szukany "
-                f"w nadmorskim rejonie: {area} (dojazd wynajętym autem)."
-            )
-        searches.append(search)
+        for area in areas:
+            search = {
+                "destination": f"{dest['city']} ({dest['country']})",
+                "country": dest["country"],
+                "airport": dest["airport"],
+                "search_area": area,
+                "checkin": checkin,
+                "checkout": checkout,
+                "nights": best["nights"],
+                "flight_family_total_pln": flight_total,
+                # Pełne dane lotu — plik ma opisywać całość, bez zaglądania do flights.posredni.json.
+                "flight": best,
+                "lodging_budget_pln": lodging_budget,
+                "food_estimate_pln": food_est,
+                "max_price_per_night_pln": lodging_budget // best["nights"],
+                "booking_url": build_booking_url(cfg, area, checkin, checkout, best["nights"],
+                                                 lodging_budget // best["nights"]),
+            }
+            if area != dest["city"]:
+                search["coast_note"] = (
+                    f"Nocleg szukany w nadmorskim rejonie: {area} "
+                    f"(dojazd wynajętym autem z lotniska {dest['city']})."
+                )
+            searches.append(search)
     return searches
 
 
@@ -232,6 +273,14 @@ def main() -> int:
                         help="ile najtańszych kierunków z flights.posredni.json sprawdzić (domyślnie 6)")
     parser.add_argument("--headful", action="store_true",
                         help="pokaż okno przeglądarki (debug)")
+    # Tryb ręczny — gdy lot jest już kupiony: własne daty i rejony zamiast flights.posredni.json.
+    parser.add_argument("--checkin", help="tryb ręczny: data zameldowania (RRRR-MM-DD)")
+    parser.add_argument("--checkout", help="tryb ręczny: data wymeldowania (RRRR-MM-DD)")
+    parser.add_argument("--areas", help="tryb ręczny: rejony po przecinku, np. 'Rimini,Riccione'")
+    parser.add_argument("--country", default="Włochy",
+                        help="tryb ręczny: kraj rejonów (walidacja wyników; domyślnie Włochy)")
+    parser.add_argument("--flight-cost-pln", type=float, default=0.0,
+                        help="tryb ręczny: koszt kupionego lotu (do budżetu całkowitego i sum)")
     args = parser.parse_args()
 
     try:
@@ -241,12 +290,18 @@ def main() -> int:
                  "  .venv/bin/pip install playwright && .venv/bin/playwright install chromium\n"
                  "i uruchamiaj: .venv/bin/python find_lodging.py")
 
-    if not FLIGHTS_PATH.exists():
-        sys.exit(f"Brak {FLIGHTS_PATH.name} — najpierw uruchom find_flights.py")
-
     cfg = load_config()
-    flights = json.loads(FLIGHTS_PATH.read_text())
-    searches = build_searches(cfg, flights, args.top)
+    manual_mode = bool(args.checkin or args.checkout or args.areas)
+    if manual_mode:
+        if not (args.checkin and args.checkout and args.areas):
+            sys.exit("Tryb ręczny wymaga naraz: --checkin, --checkout i --areas")
+        flights = {"generated_at": None}
+        searches = build_manual_searches(cfg, args)
+    else:
+        if not FLIGHTS_PATH.exists():
+            sys.exit(f"Brak {FLIGHTS_PATH.name} — najpierw uruchom find_flights.py")
+        flights = json.loads(FLIGHTS_PATH.read_text())
+        searches = build_searches(cfg, flights, args.top)
     errors: list[str] = []
 
     print(f"Sprawdzam booking.com dla {len(searches)} kierunków "
@@ -264,16 +319,56 @@ def main() -> int:
             viewport={"width": 1400, "height": 900},
         )
         page = context.new_page()
+        seen_by_dest: dict[str, set] = {}
+
+        def run_search(search: dict) -> bool:
+            """Jedno wyszukiwanie z deduplikacją; True gdy się udało."""
+            try:
+                props = scrape_destination(page, cfg, search)
+            except Exception as e:
+                msg = f"{search['destination']} → {search['search_area']}: {type(e).__name__}: {str(e)[:160]}"
+                print(f"    UWAGA: {msg}", file=sys.stderr)
+                search["properties"] = []
+                search["_error"] = msg
+                return False
+            # Ten sam obiekt może wpaść z kilku sąsiednich rejonów — bierzemy 1. wystąpienie.
+            seen = seen_by_dest.setdefault(search["destination"], set())
+            expected_cc = COUNTRY_URL_CODES.get(search.get("country", ""), None)
+            search["properties"] = []
+            for p in props:
+                base = (p["url"] or "").split("?")[0]
+                if base and base in seen:
+                    continue
+                # ss bywa niejednoznaczne — odrzucamy obiekty z innego kraju niż kierunek.
+                m = re.search(r"/hotel/([a-z]{2})/", base)
+                if expected_cc and m and m.group(1) != expected_cc:
+                    print(f"    pomijam obiekt z innego kraju ({m.group(1)}): {p['name'][:40]}",
+                          file=sys.stderr)
+                    continue
+                seen.add(base)
+                search["properties"].append(p)
+            search.pop("_error", None)
+            return True
+
+        failed = []
         for search in searches:
             print(f"  {search['destination']} → {search['search_area']} "
                   f"({search['checkin']} – {search['checkout']})...", flush=True)
-            try:
-                search["properties"] = scrape_destination(page, cfg, search)
-            except Exception as e:
-                msg = f"{search['destination']}: {type(e).__name__}: {str(e)[:200]}"
-                errors.append(msg)
-                print(f"    UWAGA: {msg}", file=sys.stderr)
-                search["properties"] = []
+            if not run_search(search):
+                failed.append(search)
+            time.sleep(2)  # nie prowokujemy limitów bookingu przy dziesiątkach zapytań
+
+        # Druga szansa dla timeoutów — zwykle chwilowe dławienie, nie twarda blokada.
+        if failed:
+            print(f"  Ponawiam {len(failed)} nieudanych wyszukiwań...", flush=True)
+            time.sleep(15)
+            for search in failed:
+                print(f"  [retry] {search['destination']} → {search['search_area']}...", flush=True)
+                if not run_search(search):
+                    errors.append(search.pop("_error", f"{search['destination']}: retry nieudany"))
+                time.sleep(4)
+
+        for search in searches:
             search["properties_found"] = len(search["properties"])
             cheapest = next((p for p in search["properties"] if p["total_price_pln"]), None)
             if cheapest:
